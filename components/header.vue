@@ -59,10 +59,10 @@
                             style="border-top: 4px solid #F47734;"
                         >
                             <ul class="py-2 text-sm text-black-700 dark:bg-[#202124]">
-                                <li><NuxtLink to="/products/data-atelier" :class="[ $route.path === '/products/data-atelier' ? 'text-[#F47734]' : 'text-black dark:text-[#C8CCD2] ', 'hover:bg-gray-100 block px-4 py-2']">Data Atelier</NuxtLink></li>
-                                <li><NuxtLink to="/products/elasticdocs" :class="[ $route.path === '/products/elasticdocs' ? 'text-[#F47734]' : 'text-black dark:text-[#C8CCD2] ', 'hover:bg-gray-100 block px-4 py-2']">ElasticDocs</NuxtLink></li>
-                                <li><NuxtLink to="/products/bonaparte" :class="[ $route.path === '/products/bonaparte' ? 'text-[#F47734]' : 'text-black dark:text-[#C8CCD2] ', 'hover:bg-gray-100 block px-4 py-2']">Bonaparte 400</NuxtLink></li>
-                                <li><NuxtLink to="/products/ed2k" :class="[ $route.path === '/products/ed2k' ? 'text-[#F47734]' : 'text-black dark:text-[#C8CCD2] ', 'hover:bg-gray-100 block px-4 py-2']">ED2K</NuxtLink></li>
+                                <li><NuxtLink to="/products/data-atelier" :class="[ $route.path === '/products/data-atelier' ? 'text-[#F47734]' : 'text-black dark:text-[#C8CCD2] ', 'hover:bg-gray-100 dark:hover:bg-[#535353] block px-4 py-2']">Data Atelier</NuxtLink></li>
+                                <li><NuxtLink to="/products/elasticdocs" :class="[ $route.path === '/products/elasticdocs' ? 'text-[#F47734]' : 'text-black dark:text-[#C8CCD2] ', 'hover:bg-gray-100 dark:hover:bg-[#535353] block px-4 py-2']">ElasticDocs</NuxtLink></li>
+                                <li><NuxtLink to="/products/bonaparte" :class="[ $route.path === '/products/bonaparte' ? 'text-[#F47734]' : 'text-black dark:text-[#C8CCD2] ', 'hover:bg-gray-100 dark:hover:bg-[#535353] block px-4 py-2']">Bonaparte 400</NuxtLink></li>
+                                <li><NuxtLink to="/products/ed2k" :class="[ $route.path === '/products/ed2k' ? 'text-[#F47734]' : 'text-black dark:text-[#C8CCD2] ', 'hover:bg-gray-100 dark:hover:bg-[#535353] block px-4 py-2']">ED2K</NuxtLink></li>
                             </ul>
                         </div>
                     </div>
@@ -88,8 +88,8 @@
                             style="border-top: 4px solid #F47734;"
                         >
                             <ul class="py-2 text-sm text-black-700 dark:bg-[#202124]">
-                                <li><NuxtLink to="/services/data-factory" :class="[ $route.path === '/services/data-factory' ? 'text-[#F47734]' : 'text-black dark:text-[#C8CCD2]', 'block px-4 py-2 hover:bg-gray-100' ]">Data Factory</NuxtLink></li>
-                                <li><NuxtLink to="/services/knowledge-workflows" :class="[ $route.path === '/services/knowledge-workflows' ? 'text-[#F47734]' : 'text-black dark:text-[#C8CCD2]', 'block px-4 py-2 hover:bg-gray-100' ]">Knowledge Workflows</NuxtLink></li>
+                                <li><NuxtLink to="/services/data-factory" :class="[ $route.path === '/services/data-factory' ? 'text-[#F47734]' : 'text-black dark:text-[#C8CCD2]', 'block px-4 py-2 hover:bg-gray-100 dark:hover:bg-[#535353]' ]">Data Factory</NuxtLink></li>
+                                <li><NuxtLink to="/services/knowledge-workflows" :class="[ $route.path === '/services/knowledge-workflows' ? 'text-[#F47734]' : 'text-black dark:text-[#C8CCD2]', 'block px-4 py-2 hover:bg-gray-100 dark:hover:bg-[#535353]' ]">Knowledge Workflows</NuxtLink></li>
                             </ul>
                         </div>
                     </div>
@@ -108,10 +108,10 @@
                             style="border-top: 4px solid #F47734;"
                         >
                             <ul class="py-2 text-sm text-black-700 dark:bg-[#202124]">
-                                <li><NuxtLink to="/about-us/value-proposition" :class="[ $route.path === '/about-us/value-proposition' ? 'text-[#F47734]' : 'text-black dark:text-[#C8CCD2]', 'block px-4 py-2 hover:bg-gray-100' ]">Value Proposition</NuxtLink></li>
-                                <li><NuxtLink to="/about-us/people" :class="[ $route.path === '/about-us/people' ? 'text-[#F47734]' : 'text-black dark:text-[#C8CCD2]', 'block px-4 py-2 hover:bg-gray-100' ]">People</NuxtLink></li>
-                                <li><NuxtLink to="/about-us/partners" :class="[ $route.path === '/about-us/partners' ? 'text-[#F47734]' : 'text-black dark:text-[#C8CCD2]', 'block px-4 py-2 hover:bg-gray-100' ]">Partners</NuxtLink></li>
-                                <li><NuxtLink to="/about-us/contact-us" :class="[ $route.path === '/about-us/contact-us' ? 'text-[#F47734]' : 'text-black dark:text-[#C8CCD2]', 'block px-4 py-2 hover:bg-gray-100' ]">Contact Us</NuxtLink></li>
+                                <li><NuxtLink to="/about-us/value-proposition" :class="[ $route.path === '/about-us/value-proposition' ? 'text-[#F47734]' : 'text-black dark:text-[#C8CCD2]', 'block px-4 py-2 hover:bg-gray-100 dark:hover:bg-[#535353]' ]">Value Proposition</NuxtLink></li>
+                                <li><NuxtLink to="/about-us/people" :class="[ $route.path === '/about-us/people' ? 'text-[#F47734]' : 'text-black dark:text-[#C8CCD2]', 'block px-4 py-2 hover:bg-gray-100 dark:hover:bg-[#535353]' ]">People</NuxtLink></li>
+                                <li><NuxtLink to="/about-us/partners" :class="[ $route.path === '/about-us/partners' ? 'text-[#F47734]' : 'text-black dark:text-[#C8CCD2]', 'block px-4 py-2 hover:bg-gray-100 dark:hover:bg-[#535353]' ]">Partners</NuxtLink></li>
+                                <li><NuxtLink to="/about-us/contact-us" :class="[ $route.path === '/about-us/contact-us' ? 'text-[#F47734]' : 'text-black dark:text-[#C8CCD2]', 'block px-4 py-2 hover:bg-gray-100 dark:hover:bg-[#535353]' ]">Contact Us</NuxtLink></li>
                             </ul>
                         </div>
                     </div>
@@ -130,12 +130,12 @@
                             style="border-top: 4px solid #F47734;"
                         >
                             <ul class="dark:bg-[#202124]">
-                                <li><NuxtLink to="/resources/brochure" :class="[ $route.path === '/resources/brochure' ? 'text-[#F47734]' : 'text-black dark:text-[#C8CCD2]', 'block px-4 py-2 hover:bg-gray-100' ]">Brochure</NuxtLink></li>
-                                <li><NuxtLink to="/resources/publication" :class="[ $route.path === '/resources/publication' ? 'text-[#F47734]' : 'text-black dark:text-[#C8CCD2]', 'block px-4 py-2 hover:bg-gray-100' ]">Publications</NuxtLink></li>
-                                <li><NuxtLink to="/resources/blog" :class="[ $route.path === '/resources/blog' ? 'text-[#F47734]' : 'text-black dark:text-[#C8CCD2]', 'block px-4 py-2 hover:bg-gray-100' ]">Blogs</NuxtLink></li>
-                                <li><NuxtLink to="/resources/careers" :class="[ $route.path === '/resources/careers' ? 'text-[#F47734]' : 'text-black dark:text-[#C8CCD2]', 'block px-4 py-2 hover:bg-gray-100' ]">Careers</NuxtLink></li>
-                                <li><NuxtLink to="/resources/privacy-statement" :class="[ $route.path === '/resources/privacy-statement' ? 'text-[#F47734]' : 'text-black dark:text-[#C8CCD2]', 'block px-4 py-2 hover:bg-gray-100' ]">Privacy Statement</NuxtLink></li>
-                                <li><NuxtLink to="/resources/cookie-policy" :class="[ $route.path === '/resources/cookie-policy' ? 'text-[#F47734]' : 'text-black dark:text-[#C8CCD2]', 'block px-4 py-2 hover:bg-gray-100' ]">Cookie Policy</NuxtLink></li>
+                                <li><NuxtLink to="/resources/brochure" :class="[ $route.path === '/resources/brochure' ? 'text-[#F47734]' : 'text-black dark:text-[#C8CCD2]', 'block px-4 py-2 hover:bg-gray-100 dark:hover:bg-[#535353]' ]">Brochure</NuxtLink></li>
+                                <li><NuxtLink to="/resources/publication" :class="[ $route.path === '/resources/publication' ? 'text-[#F47734]' : 'text-black dark:text-[#C8CCD2]', 'block px-4 py-2 hover:bg-gray-100 dark:hover:bg-[#535353]' ]">Publications</NuxtLink></li>
+                                <li><NuxtLink to="/resources/blog" :class="[ $route.path === '/resources/blog' ? 'text-[#F47734]' : 'text-black dark:text-[#C8CCD2]', 'block px-4 py-2 hover:bg-gray-100 dark:hover:bg-[#535353]' ]">Blogs</NuxtLink></li>
+                                <li><NuxtLink to="/resources/careers" :class="[ $route.path === '/resources/careers' ? 'text-[#F47734]' : 'text-black dark:text-[#C8CCD2]', 'block px-4 py-2 hover:bg-gray-100 dark:hover:bg-[#535353]' ]">Careers</NuxtLink></li>
+                                <li><NuxtLink to="/resources/privacy-statement" :class="[ $route.path === '/resources/privacy-statement' ? 'text-[#F47734]' : 'text-black dark:text-[#C8CCD2]', 'block px-4 py-2 hover:bg-gray-100 dark:hover:bg-[#535353]' ]">Privacy Statement</NuxtLink></li>
+                                <li><NuxtLink to="/resources/cookie-policy" :class="[ $route.path === '/resources/cookie-policy' ? 'text-[#F47734]' : 'text-black dark:text-[#C8CCD2]', 'block px-4 py-2 hover:bg-gray-100 dark:hover:bg-[#535353]' ]">Cookie Policy</NuxtLink></li>
                             </ul>
                         </div>
                     </div>
