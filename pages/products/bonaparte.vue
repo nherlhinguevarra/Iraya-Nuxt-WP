@@ -38,7 +38,7 @@
         <div class="h-5"></div>
         <div class="text-center">
             <h1 class="text-[18px] lg:text-[30px] xl:text-[40px] text-[#313131] dark:text-white font-medium leading-[1.2] py-2 lg:py-2 xl:py-5">
-                Turing
+                Turning
                 <span class="text-[#F47625] text-[25px] lg:text-[40px] xl:text-[60px]">data</span> 
                 into
                 <span class="text-[#2D918C] text-[25px] lg:text-[40px] xl:text-[60px]">knowledge</span>
