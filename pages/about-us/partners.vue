@@ -31,7 +31,7 @@
                         </div>
                         <div class="max-w-[200px] -mb-14">
                             <img src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/06/IBM.webp" 
-                            alt="Petronas" class="w-full h-auto object-contain"/>
+                            alt="Petronas" class="w-full h-auto object-contain dark:invert"/>
                         </div>
                     </div>
                     <div class="grid grid-cols-1 lg:grid-cols-3 gap-x-10 gap-y-14 mb-10 place-items-center">
@@ -85,7 +85,6 @@
                         <p class="text-[#666666] text-base font-normal"><span class="font-bold">Bratexco,</span> founded in 2009, supports opportunities in the Brazilian offshore seismic data acquisition and processing business. Aside from this, it provides integrated technical solutions through collaboration with high-tech companies interested in Brazil.</p>
                     </div>
                 </div>
-    
         </div>
     </div>
     </div>

@@ -22,8 +22,11 @@
                         <span class="text-[#F47625] font-bold"> 5-10 Senior Data Scientists Roles</span>
                     </h2>
                     <img src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/06/undraw_Data_points_re_vkpq.webp" 
-                    class="max-w-[600px] mx-auto w-full"
-                    alt="">
+                    class="max-w-[600px] mx-auto w-full block dark:hidden"
+                    alt="Senior Data Scienctist">
+                    <img src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/06/undraw_Data_points_re_vkpq-Dark.png" 
+                    alt="Senior Data Scienctist"
+                    class="max-w-[600px] mx-auto w-full hidden dark:block">
                     <h3 class="font-bold text-[#535353] text-2xl">SENIOR DATA SCIENTIST</h3>
                     <h6 class="font-semibold text-[#535353] text-base mb-3">Responsibilities of Senior Data Scientist</h6>
                     <ul class="font-medium text-sm text-[#535353] list-disc ml-10 mb-8">
@@ -98,8 +101,11 @@
                     <!-- GEOSCIENCE DOMAIN EXPERTS -->
                     <div class="box-border row-span-13 mb-4 shadow-[0_0_15px_rgba(0,0,0,0.25)] dark:bg-neutral-900 max-h-sm rounded-[60px] p-4 sm:p-6 md:p-8 lg:p-10 xl:p-12">
                         <img src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/06/undraw_mathematics_4otb.webp"
-                        class="max-w-[375px] mx-auto w-full"
-                        alt="">
+                        class="max-w-[375px] mx-auto w-full block dark:hidden"
+                        alt="Geoscience Domain Experts">
+                        <img src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/06/undraw_mathematics_4otb-Dark.png" 
+                        alt="Geoscience Domain Experts"
+                        class="max-w-[375px] mx-auto w-full hidden dark:block">
                         <h3 class="font-bold text-[#535353] text-2xl mb-3">GEOSCIENCE DOMAIN EXPERTS</h3>
                         <h6 class="font-semibold text-[#535353] text-base mb-3">Petrophysicist and/or Rock Physicist with 5-10 years of experience:</h6>
                         <ul class="font-medium text-sm text-[#535353] list-disc ml-10 mb-8">
@@ -130,8 +136,11 @@
                             </ul>
                         </ul>
                         <img src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/06/undraw_creative_team_r90h.webp" 
-                        class="max-w-[400px] mx-auto w-full"
-                        alt="">
+                        class="max-w-[400px] mx-auto w-full block dark:hidden"
+                        alt="Front-end Developer">
+                        <img src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/06/undraw_creative_team_r90h-Dark.png" 
+                        alt="Front-end Developer"
+                        class="max-w-[400px] mx-auto w-full hidden dark:block">
                     </div>
                     
                     <!-- MACHINE LEARNING SPECIALISTS AND DATA SCIENTISTS -->
@@ -154,15 +163,21 @@
                             <li>Applied science and geoscience expertise is a plus</li>
                         </ul>
                         <img src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/06/undraw_Pair_programming_re_or4x.webp" 
-                        class="max-w-[400px] mx-auto w-full"
-                        alt="">
+                        class="max-w-[400px] mx-auto w-full block dark:hidden"
+                        alt="Machine Learning Specialists and Data Scientists">
+                        <img src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/06/undraw_Pair_programming_re_or4x-Dark.png" 
+                        alt="Machine Learning Specialists and Data Scientists"
+                        class="max-w-[400px] mx-auto w-full hidden dark:block">
                     </div>
                     
                     <!-- BUSINESS MANAGER - TECHNICAL -->
                     <div class="box-border row-span-17 mb-4 shadow-[0_0_15px_rgba(0,0,0,0.25)] dark:bg-neutral-900 rounded-[60px] p-4 sm:p-6 md:p-8 lg:p-10 xl:p-12">
                         <img src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/06/undraw_Revenue_re_2bmg.webp"
-                        class="max-w-[375px] mx-auto w-full"
-                        alt="">
+                        class="max-w-[375px] mx-auto w-full block dark:hidden"
+                        alt="Business Manager-Technical Sales">
+                        <img src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/06/undraw_Revenue_re_2bmg-Dark.png" 
+                        alt="Business Manager-Technical Sales"
+                        class="max-w-[375px] mx-auto w-full hidden dark:block">
                         <h3 class="font-bold text-[#535353] text-2xl mb-3">BUSINESS MANAGER - TECHNICAL SALES</h3>
                         <h6 class="font-semibold text-[#535353] text-base mb-3">Responsibilities:</h6>
                         <ul class="font-medium text-sm text-[#535353] list-disc ml-10 mb-5">
@@ -182,8 +197,11 @@
                     <!-- ELASTICDOCS ENGINEERS/BACKEND DEVELOPERS (JUNIOR & SENIOR) -->
                     <div class="row-span-21 mb-4 shadow-[0_0_15px_rgba(0,0,0,0.25)] dark:bg-neutral-900 rounded-[60px] p-4 sm:p-6 md:p-8 lg:p-10 xl:p-12">
                         <img src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/06/undraw_Programmer_re_owql.webp"
-                        class="max-w-[400px] mx-auto w-full"
-                        alt="">
+                        class="max-w-[400px] mx-auto w-full block dark:hidden"
+                        alt="ElasticDocs Engineers/Backend Developers">
+                        <img src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/06/undraw_Programmer_re_owql-Dark.png" 
+                        alt="ElasticDocs Engineers/Backend Developers"
+                        class="max-w-[400px] mx-auto w-full hidden dark:block">
                         <h3 class="font-bold text-[#535353] text-2xl mb-3">ELASTICDOCS ENGINEERS/BACKEND DEVELOPERS (JUNIOR & SENIOR)</h3>
                         <h6 class="font-semibold text-[#535353] text-base mb-3">Responsibilities:</h6>
                         <ul class="font-medium text-sm text-[#535353] list-disc ml-10 mb-5">

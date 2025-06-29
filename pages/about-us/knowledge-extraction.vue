@@ -64,7 +64,13 @@
                         <img
                         src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/06/KnowledgdeExtraction.webp"
                         alt=""
-                        class="relative z-10 w-full lg:w-3/4 h-auto object-contain shadow-2xl rounded-lg"
+                        class="relative z-10 w-full lg:w-3/4 h-auto object-contain shadow-2xl rounded-lg block dark:hidden"
+                        />
+                        <!-- Dark Mode -->
+                        <img
+                        src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/06/KnowledgdeExtraction-Dark.png"
+                        alt=""
+                        class="relative z-10 w-full lg:w-3/4 h-auto object-contain shadow-2xl rounded-lg hidden dark:block"
                         />
                     </div>
                 </div>

@@ -52,8 +52,14 @@
                     <!-- Transparent image on top -->
                     <img
                         src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/06/DataDigestion.webp"
-                        alt=""
-                        class="relative z-10 w-full h-auto object-contain p-10"
+                        alt="Data Digestion"
+                        class="relative z-10 w-full h-auto object-contain p-10 block dark:hidden"
+                    />
+                    <!-- Dark Mode -->
+                    <img 
+                        src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/06/DataDigestion-Dark.png"
+                        alt="Data Digestion"
+                        class="relative z-10 w-full h-auto object-contain p-10 hidden dark:block"
                     />
                 </div>
             </div>
