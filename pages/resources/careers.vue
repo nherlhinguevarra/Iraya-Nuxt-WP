@@ -15,7 +15,7 @@
                 </h1>
 
                 <!-- SENIOR DATA SCIENTIST -->
-                <div class="shadow-[0_0_15px_rgba(0,0,0,0.25)] rounded-[60px] p-14 mb-5 dark:bg-neutral-900">
+                <div v-scroll-animate class="fade-in-up shadow-[0_0_15px_rgba(0,0,0,0.25)] rounded-[60px] p-14 mb-5 dark:bg-neutral-900">
                     <h2 class="text-[#535353] text-3xl">
                         <span class="text-[#2D918C] font-bold">Iraya </span>
                         is actively looking to fill the position of
@@ -96,7 +96,7 @@
                 <div class="grid grid-cols-1 lg:grid-cols-2 gap-5 auto-rows-[30px]"> 
                     
                     <!-- GEOSCIENCE DOMAIN EXPERTS -->
-                    <div class="box-border row-span-13 mb-4 shadow-[0_0_15px_rgba(0,0,0,0.25)] dark:bg-neutral-900 max-h-sm rounded-[60px] p-4 sm:p-6 md:p-8 lg:p-10 xl:p-12">
+                    <div v-scroll-animate class="fade-in-left box-border row-span-13 mb-4 shadow-[0_0_15px_rgba(0,0,0,0.25)] dark:bg-neutral-900 max-h-sm rounded-[60px] p-4 sm:p-6 md:p-8 lg:p-10 xl:p-12">
                         <img src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/06/undraw_mathematics_4otb.webp"
                         class="max-w-[375px] mx-auto w-full"
                         alt="">
@@ -108,7 +108,7 @@
                     </div>
                     
                     <!-- FRONT-END DEVELOPER -->
-                    <div class="box-border row-span-17 mb-4 shadow-[0_0_15px_rgba(0,0,0,0.25)] dark:bg-neutral-900 rounded-[60px] p-4 sm:p-6 md:p-8 lg:p-10 xl:p-12">
+                    <div v-scroll-animate class="fade-in-right box-border row-span-17 mb-4 shadow-[0_0_15px_rgba(0,0,0,0.25)] dark:bg-neutral-900 rounded-[60px] p-4 sm:p-6 md:p-8 lg:p-10 xl:p-12">
                         <h3 class="mb-3 font-bold text-[#535353] text-2xl">FRONT-END DEVELOPER</h3>
                         <h6 class="font-semibold text-[#535353] text-base mb-3">Responsibilities:</h6>
                         <ul class="font-medium text-sm text-[#535353] list-disc ml-10 mb-5">
@@ -135,7 +135,7 @@
                     </div>
                     
                     <!-- MACHINE LEARNING SPECIALISTS AND DATA SCIENTISTS -->
-                    <div class="box-border row-span-16 mb-4 shadow-[0_0_15px_rgba(0,0,0,0.25)] dark:bg-neutral-900 rounded-[60px] p-4 sm:p-6 md:p-8 lg:p-10 xl:p-12">
+                    <div v-scroll-animate class="fade-in-left box-border row-span-16 mb-4 shadow-[0_0_15px_rgba(0,0,0,0.25)] dark:bg-neutral-900 rounded-[60px] p-4 sm:p-6 md:p-8 lg:p-10 xl:p-12">
                         <h3 class="mb-3 font-bold text-[#535353] text-2xl">MACHINE LEARNING SPECIALISTS AND DATA SCIENTISTS</h3>
                         <h6 class="font-semibold text-[#535353] text-base mb-3">Responsibilities:</h6>
                         <ul class="font-medium text-sm text-[#535353] list-disc ml-10 mb-5">
@@ -159,7 +159,7 @@
                     </div>
                     
                     <!-- BUSINESS MANAGER - TECHNICAL -->
-                    <div class="box-border row-span-17 mb-4 shadow-[0_0_15px_rgba(0,0,0,0.25)] dark:bg-neutral-900 rounded-[60px] p-4 sm:p-6 md:p-8 lg:p-10 xl:p-12">
+                    <div v-scroll-animate class="fade-in-right box-border row-span-17 mb-4 shadow-[0_0_15px_rgba(0,0,0,0.25)] dark:bg-neutral-900 rounded-[60px] p-4 sm:p-6 md:p-8 lg:p-10 xl:p-12">
                         <img src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/06/undraw_Revenue_re_2bmg.webp"
                         class="max-w-[375px] mx-auto w-full"
                         alt="">
@@ -180,7 +180,7 @@
                     </div>
                     
                     <!-- ELASTICDOCS ENGINEERS/BACKEND DEVELOPERS (JUNIOR & SENIOR) -->
-                    <div class="row-span-21 mb-4 shadow-[0_0_15px_rgba(0,0,0,0.25)] dark:bg-neutral-900 rounded-[60px] p-4 sm:p-6 md:p-8 lg:p-10 xl:p-12">
+                    <div v-scroll-animate class="fade-in-left row-span-21 mb-4 shadow-[0_0_15px_rgba(0,0,0,0.25)] dark:bg-neutral-900 rounded-[60px] p-4 sm:p-6 md:p-8 lg:p-10 xl:p-12">
                         <img src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/06/undraw_Programmer_re_owql.webp"
                         class="max-w-[400px] mx-auto w-full"
                         alt="">

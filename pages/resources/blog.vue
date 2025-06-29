@@ -16,21 +16,21 @@
                 Older Entries >
             </h3>
             <div class="flex flex-col lg:flex-row gap-10">
-                <div class="lg:w-1/2 shadow-[0_10px_40px_rgba(0,0,0,0.3)] rounded-[20px]">
+                <div v-scroll-animate class="fade-in-up lg:w-1/2 shadow-[0_10px_40px_rgba(0,0,0,0.3)] rounded-[20px]">
                     <img src="/images/On-Premise-Post-940x675.png" alt="">
                     <div class="text-center p-5 lg:p-10 leading-[1.2]">
                         <h4 class="text-[18px] font-regular">ELASTICDOCS ON PREMISE TRAINING IN KUALA LUMPUR</h4>
                         <p class="text-[#535353] dark:text-[#C8CCD2] text-[14px] py-3">Sep 5, 2024</p>
                     </div>
                 </div>
-                <div class="lg:w-1/2 shadow-[0_10px_40px_rgba(0,0,0,0.3)] rounded-[20px]">
+                <div v-scroll-animate class="fade-in-up lg:w-1/2 shadow-[0_10px_40px_rgba(0,0,0,0.3)] rounded-[20px]">
                     <img src="/images/JLM-New-Energy-Nexus-2.png" alt="">
                     <div class="text-center p-5 lg:p-10 leading-[1.2]">
                         <h4 class="text-[18px] font-regular">IRAYA AT NEW ENERGY NEXUS PHILIPPPINES’ ENERGY CONNEX MEETUP</h4>
                         <p class="text-[#535353] dark:text-[#C8CCD2] text-[14px] py-3">Sep 14, 2023</p>
                     </div>
                 </div>
-                <div class="lg:w-1/2 shadow-[0_10px_40px_rgba(0,0,0,0.3)] rounded-[20px]">
+                <div v-scroll-animate class="fade-in-up lg:w-1/2 shadow-[0_10px_40px_rgba(0,0,0,0.3)] rounded-[20px]">
                     <img src="/images/KLGG-Rizal-1080x675.png" alt="">
                     <div class="text-center p-5 lg:p-10 leading-[1.2]">
                         <h4 class="text-[18px] font-regular">GEOSCIENCE LECTURE SERIES WITH KUALA LUMPUR GEOSCIENTISTS GROUP (KLGG)</h4>
@@ -46,7 +46,7 @@
             NEWS
         </h1>
         <div class="flex flex-col lg:flex-row gap-10">
-            <div class="lg:w-1/2 shadow-[0_10px_40px_rgba(0,0,0,0.3)] rounded-[20px]">
+            <div v-scroll-animate class="fade-in-up lg:w-1/2 shadow-[0_10px_40px_rgba(0,0,0,0.3)] rounded-[20px]">
                 <img src="/images/On-Premise-Post-940x675.png" alt="">
                 <div class="p-5 lg:p-10 leading-[1.2]">
                     <h4 class="text-[26px] font-regular">ELASTICDOCS ON PREMISE TRAINING IN KUALA LUMPUR</h4>
@@ -62,7 +62,7 @@
                 </div>
             </div>
 
-            <div class="lg:w-1/2 shadow-[0_10px_40px_rgba(0,0,0,0.3)] rounded-[20px]">
+            <div v-scroll-animate class="fade-in-up lg:w-1/2 shadow-[0_10px_40px_rgba(0,0,0,0.3)] rounded-[20px]">
                 <img src="/images/JLM-New-Energy-Nexus-2.png" alt="">
                 <div class="p-5 lg:p-10 leading-[1.2]">
                     <h4 class="text-[26px] font-regular uppercase">Iraya at New Energy Nexus Philippines’ Energy Connex Meetup</h4>
@@ -81,7 +81,7 @@
 
         <div class="h-5 lg:h-10"></div>
         <div class="flex flex-col lg:flex-row gap-10">
-            <div class="lg:w-1/2 shadow-[0_10px_40px_rgba(0,0,0,0.3)] rounded-[20px]">
+            <div v-scroll-animate class="fade-in-up lg:w-1/2 shadow-[0_10px_40px_rgba(0,0,0,0.3)] rounded-[20px]">
                 <img src="/images/KLGG-Rizal-1080x675.png" alt="">
                 <div class="p-5 lg:p-10 leading-[1.2]">
                     <h4 class="text-[26px] font-regular uppercase">Our CEO at the Agora Pod Talk in Energy Asia 2023</h4>
@@ -97,7 +97,7 @@
                 </div>
             </div>
 
-            <div class="lg:w-1/2 shadow-[0_10px_40px_rgba(0,0,0,0.3)] rounded-[20px]">
+            <div v-scroll-animate class="fade-in-up lg:w-1/2 shadow-[0_10px_40px_rgba(0,0,0,0.3)] rounded-[20px]">
                 <img src="/images/Energy-Asia-Speaker-NMH-1080x627.png" alt="">
                 <div class="p-5 lg:p-10 leading-[1.2]">
                     <h4 class="text-[26px] font-regular uppercase">Iraya at New Energy Nexus Philippines’ Energy Connex Meetup</h4>
@@ -116,7 +116,7 @@
 
         <div class="h-5 lg:h-10"></div>
         <div class="flex flex-col lg:flex-row gap-10">
-            <div class="lg:w-1/2 shadow-[0_10px_40px_rgba(0,0,0,0.3)] rounded-[20px]">
+            <div v-scroll-animate class="fade-in-up lg:w-1/2 shadow-[0_10px_40px_rgba(0,0,0,0.3)] rounded-[20px]">
                 <img src="/images/ea2-980x738.png" alt="">
                 <div class="p-5 lg:p-10 leading-[1.2]">
                     <h4 class="text-[26px] font-regular uppercase">Iraya at Energy Asia 2023</h4>
@@ -132,7 +132,7 @@
                 </div>
             </div>
 
-            <div class="lg:w-1/2 shadow-[0_10px_40px_rgba(0,0,0,0.3)] rounded-[20px]">
+            <div v-scroll-animate class="fade-in-up lg:w-1/2 shadow-[0_10px_40px_rgba(0,0,0,0.3)] rounded-[20px]">
                 <img src="/images/YF-SEG-830x675.png" alt="">
                 <div class="p-5 lg:p-10 leading-[1.2]">
                     <h4 class="text-[26px] font-regular uppercase">Iraya at SEG/SPE Workshop on Reservoir Characterization</h4>
@@ -151,7 +151,7 @@
         
         <div class="h-5 lg:h-10"></div>
         <div class="flex flex-col lg:flex-row gap-10">
-            <div class="lg:w-1/2 shadow-[0_10px_40px_rgba(0,0,0,0.3)] rounded-[20px]">
+            <div v-scroll-animate class="fade-in-up lg:w-1/2 shadow-[0_10px_40px_rgba(0,0,0,0.3)] rounded-[20px]">
                 <img src="/images/FB-French-Tech-800x675.png" alt="">
                 <div class="p-5 lg:p-10 leading-[1.2]">
                     <h4 class="text-[26px] font-regular uppercase">A Collaborative Effort With La French Tech Malaysia</h4>
@@ -168,7 +168,7 @@
                 </div>
             </div>
 
-            <div class="lg:w-1/2 shadow-[0_10px_40px_rgba(0,0,0,0.3)] rounded-[20px]">
+            <div v-scroll-animate class="fade-in-up lg:w-1/2 shadow-[0_10px_40px_rgba(0,0,0,0.3)] rounded-[20px]">
                 <img src="/images/NMH-Colombia-1065x675.png" alt="">
                 <div class="p-5 lg:p-10 leading-[1.2]">
                     <h4 class="text-[26px] font-regular uppercase">Our Technology Partners in Colombia</h4>
@@ -187,7 +187,7 @@
 
         <div class="h-5 lg:h-10"></div>
         <div class="flex flex-col lg:flex-row gap-10">
-            <div class="lg:w-1/2 shadow-[0_10px_40px_rgba(0,0,0,0.3)] rounded-[20px]">
+            <div v-scroll-animate class="fade-in-up lg:w-1/2 shadow-[0_10px_40px_rgba(0,0,0,0.3)] rounded-[20px]">
                 <img src="/images/MicrosoftTeams-image-8-980x738.png" alt="">
                 <div class="p-5 lg:p-10 leading-[1.2]">
                     <h4 class="text-[26px] font-regular uppercase">Iraya Joins Luncheon Hosted by the Philippines Mining CLub</h4>
@@ -203,7 +203,7 @@
                 </div>
             </div>
 
-            <div class="lg:w-1/2 shadow-[0_10px_40px_rgba(0,0,0,0.3)] rounded-[20px]">
+            <div v-scroll-animate class="fade-in-up lg:w-1/2 shadow-[0_10px_40px_rgba(0,0,0,0.3)] rounded-[20px]">
                 <img src="/images/EAGE-Speakers-Announcement-1080x675.png" alt="">
                 <div class="p-5 lg:p-10 leading-[1.2]">
                     <h4 class="text-[26px] font-regular uppercase">Iraya Energies at the EAGE Annual 2023</h4>

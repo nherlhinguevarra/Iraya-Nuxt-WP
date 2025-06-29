@@ -142,7 +142,7 @@
         </div>
         <div class="h-5 lg:h-10"></div>
         <div class="px-5 lg:px-0">
-            <div class="w-full lg:w-[95%] xl:w-[60%] mx-auto shadow-[0_10px_40px_rgba(0,0,0,0.3)] p-5 lg:py-5 lg:px-15 rounded-[50px] dark:bg-[#282929]">
+            <div v-scroll-animate class="fade-in-up w-full lg:w-[95%] xl:w-[60%] mx-auto shadow-[0_10px_40px_rgba(0,0,0,0.3)] p-5 lg:py-5 lg:px-15 rounded-[50px] dark:bg-[#282929]">
                 <h1 class="text-[20px] lg:text-[24px] xl:text-[28px] text-[#313131] dark:text-white leading-[1.2] py-2 lg:py-2 xl:py-5 font-medium">
                     Quickly and easily
                     <span class="text-[#F47625] text-[30px] lg:text-[44px]">transform unstructured data to</span><br>

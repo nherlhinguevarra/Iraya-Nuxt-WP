@@ -16,7 +16,7 @@
 
             <div class="h-10"></div>
             <div class="">
-                <div class="w-full lg:w-[100%] mx-auto flex gap-5 flex flex-col lg:flex-row">
+                <div v-scroll-animate class="fade-in-up w-full lg:w-[100%] mx-auto flex gap-5 flex flex-col lg:flex-row">
                     <div class="lg:w-2/5">
                         <img src="/images/Earth-green1.png" class="w-full">
                     </div>
@@ -44,7 +44,7 @@
                 </div>
 
                 <div class="h-4"></div>
-                <div class="w-full lg:w-[100%] mx-auto flex gap-5 flex flex-col lg:flex-row">
+                <div v-scroll-animate class="fade-in-up w-full lg:w-[100%] mx-auto flex gap-5 flex flex-col lg:flex-row">
                     <div class="lg:w-2/5">
                         <img src="/images/DRILL-e1681788844950.png" class="w-full">
                     </div>
@@ -72,7 +72,7 @@
                 </div>
 
                 <div class="h-4"></div>
-                <div class="w-full lg:w-[100%] mx-auto flex gap-5 flex flex-col lg:flex-row">
+                <div v-scroll-animate class="fade-in-up w-full lg:w-[100%] mx-auto flex gap-5 flex flex-col lg:flex-row">
                     <div class="lg:w-2/5">
                         <img src="/images/CCUS-2048x1303.png" class="w-full">
                     </div>
@@ -99,7 +99,7 @@
                 </div>
 
                 <div class="h-4"></div>
-                <div class="w-full lg:w-[100%] mx-auto flex gap-5 flex flex-col lg:flex-row">
+                <div v-scroll-animate class="fade-in-up w-full lg:w-[100%] mx-auto flex gap-5 flex flex-col lg:flex-row">
                     <div class="lg:w-2/5">
                         <img src="/images/Pollution-scaled.png" class="w-full">
                     </div>
@@ -126,7 +126,7 @@
                 </div>
 
                 <div class="h-4"></div>
-                <div class="w-full lg:w-[100%] mx-auto flex gap-5 flex flex-col lg:flex-row">
+                <div v-scroll-animate class="fade-in-up w-full lg:w-[100%] mx-auto flex gap-5 flex flex-col lg:flex-row">
                     <div class="lg:w-2/5">
                         <img src="/images/Case-Study-Pre-Salt-Brazil.png" class="w-full">
                     </div>
@@ -154,7 +154,7 @@
                 </div>
 
                 <div class="h-4"></div>
-                <div class="w-full lg:w-[100%] mx-auto flex gap-5 flex flex-col lg:flex-row">
+                <div v-scroll-animate class="fade-in-up w-full lg:w-[100%] mx-auto flex gap-5 flex flex-col lg:flex-row">
                     <div class="lg:w-2/5">
                         <img src="/images/Sustainable-data-mining.png">
                     </div>
@@ -183,7 +183,7 @@
                 </div>
 
                 <div class="h-4"></div>
-                <div class="w-full lg:w-[100%] mx-auto flex gap-5 flex flex-col lg:flex-row">
+                <div v-scroll-animate class="fade-in-up w-full lg:w-[100%] mx-auto flex gap-5 flex flex-col lg:flex-row">
                     <div class="lg:w-2/5">
                         <img src="/images/EAGE-Madrid-2022.png">
                     </div>
@@ -209,7 +209,7 @@
                 </div>
 
                 <div class="h-4"></div>
-                <div class="w-full lg:w-[100%] mx-auto flex gap-5 flex flex-col lg:flex-row">
+                <div v-scroll-animate class="fade-in-up w-full lg:w-[100%] mx-auto flex gap-5 flex flex-col lg:flex-row">
                     <div class="lg:w-2/5">
                         <img src="/images/Bonaparte-Case-Study.png">
                     </div>
@@ -236,7 +236,7 @@
                 </div>
 
                 <div class="h-5 lg:h-10"></div>
-                <div class="w-full lg:w-[100%] mx-auto flex gap-5 flex flex-col lg:flex-row">
+                <div v-scroll-animate class="fade-in-up w-full lg:w-[100%] mx-auto flex gap-5 flex flex-col lg:flex-row">
                     <div class="lg:w-2/5">
                         <img src="/images/First-Break-article-June-2021.png">
                     </div>
@@ -256,7 +256,7 @@
                 </div>
 
                 <div class="h-5 lg:h-10"></div>
-                <div class="w-full lg:w-[100%] mx-auto flex gap-5 flex flex-col lg:flex-row">
+                <div v-scroll-animate class="fade-in-up w-full lg:w-[100%] mx-auto flex gap-5 flex flex-col lg:flex-row">
                     <div class="lg:w-2/5">
                         <img src="/images/First-Break-article-December-2020.png">
                     </div>
@@ -276,7 +276,7 @@
                 </div>
 
                 <div class="h-5 lg:h-10"></div>
-                <div class="w-full lg:w-[100%] mx-auto flex gap-5 flex flex-col lg:flex-row">
+                <div v-scroll-animate class="fade-in-up w-full lg:w-[100%] mx-auto flex gap-5 flex flex-col lg:flex-row">
                     <div class="lg:w-2/5">
                         <img src="/images/Iraya-paper-cover-20200819.png">
                     </div>
@@ -302,7 +302,7 @@
                 </div>
 
                 <div class="h-5 lg:h-10"></div>
-                <div class="w-full lg:w-[100%] mx-auto flex gap-5 flex flex-col lg:flex-row">
+                <div v-scroll-animate class="fade-in-up w-full lg:w-[100%] mx-auto flex gap-5 flex flex-col lg:flex-row">
                     <div class="lg:w-2/5">
                         <img src="/images/DSDE-logo-puclications-page.png" class="block mx-auto">
                     </div>
@@ -323,7 +323,7 @@
                 </div>
 
                 <div class="h-5"></div>
-                <div class="w-full lg:w-[100%] mx-auto flex gap-5 flex flex-col lg:flex-row">
+                <div v-scroll-animate class="fade-in-up w-full lg:w-[100%] mx-auto flex gap-5 flex flex-col lg:flex-row">
                     <div class="lg:w-2/5">
                         <img src="/images/FirstBreakarticleJune-2020.png">
                     </div>
@@ -344,7 +344,7 @@
                 </div>
 
                 <div class="h-4"></div>
-                <div class="w-full lg:w-[100%] mx-auto flex gap-5 flex flex-col lg:flex-row">
+                <div v-scroll-animate class="fade-in-up w-full lg:w-[100%] mx-auto flex gap-5 flex flex-col lg:flex-row">
                     <div class="lg:w-2/5">
                         <img src="/images/DIGEX2020-publications.png">
                     </div>
@@ -369,7 +369,7 @@
                 </div>
 
                 <div class="h-4"></div>
-                <div class="w-full lg:w-[100%] mx-auto flex gap-5 flex flex-col lg:flex-row">
+                <div v-scroll-animate class="fade-in-up w-full lg:w-[100%] mx-auto flex gap-5 flex flex-col lg:flex-row">
                     <div class="lg:w-2/5">
                         <img src="/images/GOM-case-study.png">
                     </div>
@@ -396,7 +396,7 @@
                 </div>
 
                 <div class="h-4"></div>
-                <div class="w-full lg:w-[100%] mx-auto flex gap-5 flex flex-col lg:flex-row">
+                <div v-scroll-animate class="fade-in-up w-full lg:w-[100%] mx-auto flex gap-5 flex flex-col lg:flex-row">
                     <div class="lg:w-2/5">
                         <img src="/images/petrophysical-interpretation.png">
                     </div>
@@ -422,7 +422,7 @@
                 </div>
 
                 <div class="h-4"></div>
-                <div class="w-full lg:w-[100%] mx-auto flex gap-5 flex flex-col lg:flex-row">
+                <div v-scroll-animate class="fade-in-up w-full lg:w-[100%] mx-auto flex gap-5 flex flex-col lg:flex-row">
                     <div class="lg:w-2/5">
                         <img src="/images/why-people-matter.png">
                     </div>
@@ -449,7 +449,7 @@
                 </div>
 
                 <div class="h-4"></div>
-                <div class="w-full lg:w-[100%] mx-auto flex gap-5 flex flex-col lg:flex-row">
+                <div v-scroll-animate class="fade-in-up w-full lg:w-[100%] mx-auto flex gap-5 flex flex-col lg:flex-row">
                     <div class="lg:w-2/5">
                         <img src="/images/New-weay-handling-unstrucutred-data.png">
                     </div>
@@ -476,7 +476,7 @@
                 </div>
 
                 <div class="h-4"></div>
-                <div class="w-full lg:w-[100%] mx-auto flex gap-5 flex flex-col lg:flex-row">
+                <div v-scroll-animate class="fade-in-up w-full lg:w-[100%] mx-auto flex gap-5 flex flex-col lg:flex-row">
                     <div class="lg:w-2/5">
                         <img src="/images/APGCE-ML-in-geoscience.png">
                     </div>
@@ -500,7 +500,7 @@
                 </div>
 
                 <div class="h-4"></div>
-                <div class="w-full lg:w-[100%] mx-auto flex gap-5 flex flex-col lg:flex-row">
+                <div v-scroll-animate class="fade-in-up w-full lg:w-[100%] mx-auto flex gap-5 flex flex-col lg:flex-row">
                     <div class="lg:w-2/5">
                         <img src="/images/FORCE-logo.png">
                     </div>
@@ -523,7 +523,7 @@
                 </div>
 
                 <div class="h-4"></div>
-                <div class="w-full lg:w-[100%] mx-auto flex gap-5 flex flex-col lg:flex-row">
+                <div v-scroll-animate class="fade-in-up w-full lg:w-[100%] mx-auto flex gap-5 flex flex-col lg:flex-row">
                     <div class="lg:w-2/5">
                         <img src="/images/EAGE-BIG-DATA-AND-MACHINE-LEARNING-CONFERENCE.png">
                     </div>
@@ -547,7 +547,7 @@
                 </div>
 
                 <div class="h-5 lg:h-10"></div>
-                <div class="w-full lg:w-[100%] mx-auto flex gap-5 flex flex-col lg:flex-row">
+                <div v-scroll-animate class="fade-in-up w-full lg:w-[100%] mx-auto flex gap-5 flex flex-col lg:flex-row">
                     <div class="lg:w-2/5">
                         <img src="/images/EAGE-RESERVOIR-GEOSCIENCE-CONFERENCE.png">
                     </div>
@@ -571,7 +571,7 @@
                 </div>
 
                 <div class="h-5 lg:h-10"></div>
-                <div class="w-full lg:w-[100%] mx-auto flex gap-5 flex flex-col lg:flex-row">
+                <div v-scroll-animate class="fade-in-up w-full lg:w-[100%] mx-auto flex gap-5 flex flex-col lg:flex-row">
                     <div class="lg:w-2/5">
                         <img src="/images/EAGEPESGB-WORKSHOP-ON-MACHINE-LEARNING.png">
                     </div>
@@ -595,7 +595,7 @@
                 </div>
 
                 <div class="h-5 lg:h-10"></div>
-                <div class="w-full lg:w-[100%] mx-auto flex gap-5 flex flex-col lg:flex-row">
+                <div v-scroll-animate class="fade-in-up w-full lg:w-[100%] mx-auto flex gap-5 flex flex-col lg:flex-row">
                     <div class="lg:w-2/5">
                         <img src="/images/image11.png">
                     </div>
@@ -619,7 +619,7 @@
                 </div>
 
                 <div class="h-5 lg:h-10"></div>
-                <div class="w-full lg:w-[100%] mx-auto flex gap-5 flex flex-col lg:flex-row">
+                <div v-scroll-animate class="fade-in-up w-full lg:w-[100%] mx-auto flex gap-5 flex flex-col lg:flex-row">
                     <div class="lg:w-2/5">
                         <img src="/images/ePowerMo_OpenForum.png">
                     </div>
@@ -642,7 +642,7 @@
                 </div>
 
                 <div class="h-5 lg:h-10"></div>
-                <div class="w-full lg:w-[100%] mx-auto flex gap-5 flex flex-col lg:flex-row">
+                <div v-scroll-animate class="fade-in-up w-full lg:w-[100%] mx-auto flex gap-5 flex flex-col lg:flex-row">
                     <div class="lg:w-2/5">
                         <img src="/images/SEAPEX-Manila.png">
                     </div>

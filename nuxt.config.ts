@@ -19,6 +19,9 @@ export default defineNuxtConfig({
         storageKey: 'nuxt-color-mode',
     },
 
+    css: ['@/assets/css/animations.css'],
+    plugins: ['@/plugins/v-scroll-animate'],
+
     app: {
         head: {
             meta: [
@@ -43,6 +46,16 @@ export default defineNuxtConfig({
                 {
                     rel: 'stylesheet',
                     href: 'https://unpkg.com/aos@2.3.4/dist/aos.css'
+                },
+                {
+                    rel: 'stylesheet',
+                    href: 'https://unpkg.com/leaflet@1.9.4/dist/leaflet.css'
+                }
+            ],
+            script: [
+                {
+                src: 'https://unpkg.com/leaflet@1.9.4/dist/leaflet.js',
+                defer: true,  // optional but recommended
                 }
             ]
         }

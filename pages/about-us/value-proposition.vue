@@ -69,7 +69,7 @@
                 </ul>
 
                 <!-- IMAGE -->
-                <div class="relative inline-block mr-0 lg:mr-44">
+                <div v-scroll-animate class="zoom-in relative inline-block mr-0 lg:mr-44">
                     <!-- Background rectangle with shadow -->
                     <div class="absolute inset-0 bg-white dark:bg-neutral-900 shadow-2xl rounded-lg" aria-hidden="true"></div>
                     <!-- Transparent image on top -->
