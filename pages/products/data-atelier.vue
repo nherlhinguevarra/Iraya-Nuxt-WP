@@ -1,7 +1,7 @@
 <template>
     <div class="px-5 lg:px-0">
         <div class="w-full mx-auto flex flex-col sm:flex-row">
-            <div class="lg:w-1/2 mt-10 lg:mt-10 xl:mt-40 pl-0 lg:pl-[1rem] xl:pl-[10rem]">
+            <div v-scroll-animate class="fade-in-left lg:w-1/2 mt-10 lg:mt-10 xl:mt-40 pl-0 lg:pl-[1rem] xl:pl-[10rem]">
                 <img src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/05/Data-Atelier-logo-wordmark.webp" class="w-auto" alt="Image">
                 <h1 class="text-[18px] lg:text-[25px] xl:text-[40px] text-[#535353] dark:text-white font-light leading-[1.2] py-2 lg:py-2 xl:py-5">
                     Transforming energy data for
@@ -41,7 +41,7 @@
                     with these technologies
                 </h1>
             </div>
-            <div class="w-full py-5 lg:py-15">
+            <div v-scroll-animate class="fade-in-up w-full py-5 lg:py-15">
                 <div class="grid grid-cols-2 place-items-center gap-4 lg:flex lg:flex-row lg:items-center lg:justify-center lg:gap-10 xl:gap-20">
                     <img src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/05/tech_1.png" class="w-auto lg:w-50 xl:w-auto" alt="Image">
                     <img src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/05/tech_2.png" class="w-auto lg:w-50 xl:w-auto" alt="Image">
@@ -134,7 +134,7 @@
     <div class="h-20"></div>
 
     <div class="px-5">
-        <div class="flex flex-col lg:flex-row bg-[#FFFFFF] dark:bg-[#282929] mx-auto p-5 lg:p-10 pb-5 lg:pb-10 rounded-[50px] shadow-[0_10px_40px_rgba(0,0,0,0.3)] align-center w-fit">
+        <div v-scroll-animate class="fade-in-up flex flex-col lg:flex-row bg-[#FFFFFF] dark:bg-[#282929] mx-auto p-5 lg:p-10 pb-5 lg:pb-10 rounded-[50px] shadow-[0_10px_40px_rgba(0,0,0,0.3)] align-center w-fit">
             <div class="w-full lg:w-[400px] xl:w-[560px]">
                 <h1 class="text-[25px] lg:text-[40px] xl:text-[55px] text-[#2D918C] leading-[1.2] xl:leading-[1] font-medium pb-2 lg:pb-0">
                     <span class="text-[#313131] dark:text-white text-[20px] lg:text-[35px]">Meet the</span><br>
@@ -177,7 +177,7 @@
             assembled more than thousands of AI and AI management tools so 
             that you can work faster and better while optimizing cost and performance.
         </p>
-        <div class="flex justify-center py-5 lg:py-15">
+        <div v-scroll-animate class="fade-in-left flex justify-center py-5 lg:py-15">
             <img src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/05/DA-8Steps-1-2048x939-1-1-1024x469.png" class="w-full">
         </div>
         <hr class="mt-4 h-[1px] bg-[#66666680] bg-opacity-20 border-0" />

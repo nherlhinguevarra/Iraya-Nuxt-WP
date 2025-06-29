@@ -14,7 +14,7 @@
         </h1>
         <div class="h-5 lg:h-15"></div>
         <div class="w-full lg:w-[90%] xl:w-[55%] mx-auto flex flex-col lg:flex-row gap-5">
-            <div class="lg:w-1/2 p-5 shadow-[0_10px_40px_rgba(0,0,0,0.3)] rounded-[30px]">
+            <div v-scroll-animate class="fade-in-up lg:w-1/2 p-5 shadow-[0_10px_40px_rgba(0,0,0,0.3)] rounded-[30px]">
                 <img src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/05/brochure-1.png" class="w-full">
                 <p style="text-align: justify;" class="text-[16px] lg:text-[18px] leading-[1.8] text-[#666666] dark:text-[#C8CCD2] font-medium py-4 px-2">
                     Wouldn’t it be practical if your geoscientists, engineers, and data managers 
@@ -32,7 +32,7 @@
                     </button>
                 </div>
             </div>
-            <div class="lg:w-1/2 p-5 shadow-[0_10px_40px_rgba(0,0,0,0.3)] rounded-[30px]">
+            <div v-scroll-animate class="fade-in-up lg:w-1/2 p-5 shadow-[0_10px_40px_rgba(0,0,0,0.3)] rounded-[30px]">
                 <img src="/images/DA-Cover 1.png" class="w-full">
                 <p style="text-align: justify;" class="text-[16px] lg:text-[18px] leading-[1.8] text-[#666666] dark:text-[#C8CCD2] font-medium py-4 px-2">
                     The Data Atelier is a digital factory that is composed of an orchestration of pipelines, data tracking, and monitoring services. 
@@ -52,7 +52,7 @@
 
         <div class="h-5"></div>
         <div class="w-full lg:w-[90%] xl:w-[55%] mx-auto flex flex-col lg:flex-row gap-5">
-            <div class="lg:w-1/2 p-5 shadow-[0_10px_40px_rgba(0,0,0,0.3)] rounded-[30px]">
+            <div v-scroll-animate class="fade-in-up lg:w-1/2 p-5 shadow-[0_10px_40px_rgba(0,0,0,0.3)] rounded-[30px]">
                 <div class="flex justify-center">
                     <img src="/images/Bonaparte-400.png">
                 </div>
@@ -71,7 +71,7 @@
                     </button>
                 </div>
             </div>
-            <div class="lg:w-1/2 p-5 shadow-[0_10px_40px_rgba(0,0,0,0.3)] rounded-[30px]">
+            <div v-scroll-animate class="fade-in-up lg:w-1/2 p-5 shadow-[0_10px_40px_rgba(0,0,0,0.3)] rounded-[30px]">
                 
                 <div class="flex justify-center">
                     <img src="/images/ED2K-Cover.png">
@@ -95,7 +95,7 @@
 
         <div class="h-5"></div>
         <div class="w-full lg:w-[90%] xl:w-[55%] mx-auto flex flex-col lg:flex-row gap-5">
-            <div class="lg:w-1/2 p-5 shadow-[0_10px_40px_rgba(0,0,0,0.3)] rounded-[30px]">
+            <div v-scroll-animate class="fade-in-up lg:w-1/2 p-5 shadow-[0_10px_40px_rgba(0,0,0,0.3)] rounded-[30px]">
                 <div class="flex justify-center">
                     <img src="/images/ED-DA-for-Asset-Management-1024x724 1.png">
                 </div>
@@ -113,7 +113,7 @@
                     </button>
                 </div>
             </div>
-            <div class="lg:w-1/2 p-5 shadow-[0_10px_40px_rgba(0,0,0,0.3)] rounded-[30px]">
+            <div v-scroll-animate class="fade-in-up lg:w-1/2 p-5 shadow-[0_10px_40px_rgba(0,0,0,0.3)] rounded-[30px]">
                 
                 <div class="flex justify-center">
                     <img src="/images/ED-DA-for-ESG_small-980x691 1.png">
@@ -135,7 +135,7 @@
 
         <div class="h-5"></div>
         <div class="w-full lg:w-[90%] xl:w-[55%] mx-auto flex flex-col lg:flex-row gap-5">
-            <div class="lg:w-1/2 p-5 shadow-[0_10px_40px_rgba(0,0,0,0.3)] rounded-[30px]">
+            <div v-scroll-animate class="fade-in-up lg:w-1/2 p-5 shadow-[0_10px_40px_rgba(0,0,0,0.3)] rounded-[30px]">
                 <div class="flex justify-center">
                     <img src="/images/ED-DA-for-Mining-1024x726 1.png">
                 </div>
@@ -155,7 +155,7 @@
                     </button>
                 </div>
             </div>
-            <div class="lg:w-1/2 p-5 shadow-[0_10px_40px_rgba(0,0,0,0.3)] rounded-[30px]">
+            <div v-scroll-animate class="fade-in-up lg:w-1/2 p-5 shadow-[0_10px_40px_rgba(0,0,0,0.3)] rounded-[30px]">
                 
                 <div class="flex justify-center">
                     <img src="/images/DS-Cover 1.png">
@@ -179,7 +179,7 @@
 
         <div class="h-5"></div>
         <div class="w-full lg:w-[90%] xl:w-[55%] mx-auto flex flex-col lg:flex-row gap-5">
-            <div class="lg:w-1/2 p-5 shadow-[0_10px_40px_rgba(0,0,0,0.3)] rounded-[30px]">
+            <div v-scroll-animate class="fade-in-up lg:w-1/2 p-5 shadow-[0_10px_40px_rgba(0,0,0,0.3)] rounded-[30px]">
                 <div class="flex justify-center">
                     <img src="/images/DA-for-Enhanced-Geothermal-System-1024x724 1.png">
                 </div>
@@ -198,7 +198,7 @@
                     </button>
                 </div>
             </div>
-            <div class="lg:w-1/2 p-5 shadow-[0_10px_40px_rgba(0,0,0,0.3)] rounded-[30px]">
+            <div v-scroll-animate class="fade-in-up lg:w-1/2 p-5 shadow-[0_10px_40px_rgba(0,0,0,0.3)] rounded-[30px]">
                 
                 <div class="flex justify-center">
                     <img src="/images/DA-for-Metal-Mining-1024x724 1.png">
@@ -220,7 +220,7 @@
 
         <div class="h-5"></div>
         <div class="w-full lg:w-[90%] xl:w-[55%] mx-auto flex flex-col lg:flex-row gap-5">
-            <div class="lg:w-1/2 p-5 shadow-[0_10px_40px_rgba(0,0,0,0.3)] rounded-[30px]">
+            <div v-scroll-animate class="fade-in-up lg:w-1/2 p-5 shadow-[0_10px_40px_rgba(0,0,0,0.3)] rounded-[30px]">
                 <div class="flex justify-center">
                     <img src="/images/DA-for-Geothermal_small-980x691 1.png">
                 </div>

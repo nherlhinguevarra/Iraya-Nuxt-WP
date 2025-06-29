@@ -13,7 +13,7 @@
         <h1 class="text-center text-[#666666] dark:text-[#C8CCD2] text-[24px] lg:text-[34px] font-medium leading-[1.2] py-4">
             APAC & HQ (MALAYSIA)
         </h1>
-        <img src="/images/map.png" class="block mx-auto">
+        <div id="real-map" class="w-[500px] h-[350px] rounded-lg shadow-lg mx-auto"></div>
         <h1 class="text-center text-[#666666] dark:text-[#C8CCD2] text-[24px] lg:text-[26px] font-medium leading-[1.5] py-2 w-full lg:w-[40%] xl:w-[20%] mx-auto">
             Suite 8.01 Level 8 Menara Binjai
             No. 2 Jalan Binjai
@@ -90,3 +90,21 @@
     </div>
     <div class="h-5 lg:h-20"></div>
 </template>
+
+<script setup>
+    import { onMounted } from 'vue'
+
+    onMounted(() => {
+    const L = window.L  // Leaflet global (since loaded via script tag)
+
+    const map = L.map('real-map').setView([3.1594169837590487, 101.71870540740603], 15) // center + zoom
+
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '© OpenStreetMap contributors'
+    }).addTo(map)
+
+    L.marker([3.1594169837590487, 101.71870540740603]).addTo(map)
+        .bindPopup('2, Lrg Binjai, Kuala Lumpur City Centre')
+        .openPopup()
+    })
+</script>

@@ -29,7 +29,7 @@
                 <!-- MANAGEMENT TEAM INFO -->
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-2 px-4 sm:px-8 md:px-16 lg:px-36 bg-white dark:bg-transparent">
                     <!-- Card 1 -->
-                    <div class="text-start mb-10">
+                    <div v-scroll-animate class="slide-in-up text-start mb-10">
                         <img src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/06/093_200120-kopi-1-2.png" 
                         alt="Nina Marie Hernandez" class="mx-auto mb-4 dark:bg-neutral-900 shadow-[0_0_15px_rgba(0,0,0,0.1)] rounded-tl-[60px] rounded-br-[60px]
                         w-full max-w-xs sm:max-w-sm h-auto object-cover"/>
@@ -47,7 +47,7 @@
                     </div>
 
                     <!-- Card 2 -->
-                    <div class="text-start mb-10">
+                    <div v-scroll-animate class="slide-in-up text-start mb-10">
                         <img src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/06/FrancoisBaillard-2.png" 
                         alt="Francois Baillard" class="mx-auto mb-4 dark:bg-neutral-900 shadow-[0_0_15px_rgba(0,0,0,0.1)] rounded-tl-[60px] rounded-br-[60px]
                         w-full max-w-xs sm:max-w-sm h-auto object-cover" />
@@ -63,7 +63,7 @@
                     </div>
 
                     <!-- Card 3 -->
-                    <div class="text-start mb-10">
+                    <div v-scroll-animate class="slide-in-up text-start mb-10">
                         <img src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/06/yf.webp" 
                         alt="Yang Fairuz" class="mx-auto mb-4 dark:bg-neutral-900 shadow-[0_0_15px_rgba(0,0,0,0.1)] rounded-tl-[60px] rounded-br-[60px]
                         w-full max-w-xs sm:max-w-sm h-auto object-cover" />
@@ -79,7 +79,7 @@
                     </div>
 
                     <!-- Card 4 -->
-                    <div class="text-start">
+                    <div v-scroll-animate class="slide-in-uptext-start">
                         <img src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/06/Ian-Panganiban-2.png" 
                         alt="Ian Panganiban" class="mx-auto mb-4 dark:bg-neutral-900 shadow-[0_0_15px_rgba(0,0,0,0.1)] rounded-tl-[60px] rounded-br-[60px]
                         w-full max-w-xs sm:max-w-sm h-auto object-cover" />

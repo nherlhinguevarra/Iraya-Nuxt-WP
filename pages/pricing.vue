@@ -1,7 +1,7 @@
 <template>
     <div class="px-5 lg:px-0">
         <div class="w-full mx-auto flex flex-col sm:flex-row">
-            <div class="lg:w-2/5 mt-10 lg:mt-20 xl:mt-50 pl-0 lg:pl-[2rem] xl:pl-[10rem]">
+            <div v-scroll-animate class="fade-in-left lg:w-2/5 mt-10 lg:mt-20 xl:mt-50 pl-0 lg:pl-[2rem] xl:pl-[10rem]">
                 <img src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/05/Data-Atelier-logo-wordmark.webp" class="w-auto lg:w-[400px]" alt="Image">
                 <h1 class="text-[30px] lg:text-[30px] xl:text-[40px] text-[#666666] dark:text-[#C8CCD2] font-light leading-[1.2] py-2 lg:py-2 xl:py-5">
                     <span class="text-[#F47625] text-[40px] lg:text-[45px] xl:text-[50px]">Data Discovery</span><br>
@@ -25,7 +25,7 @@
                 <span class="text-[#F47625] text-[18px] lg:text-[30px] xl:text-[60px]">workflow</span>
             </h1>
             <div class="w-full lg:w-[95%] xl:w-[60%] flex flex-col lg:flex-row mx-auto gap-5 lg:gap-5 xl:gap-10">
-                <div class="lg:w-1/2 justify-center shadow-[0_10px_40px_rgba(0,0,0,0.3)] py-12 px-10 rounded-[50px]">
+                <div v-scroll-animate class="fade-in-left lg:w-1/2 justify-center shadow-[0_10px_40px_rgba(0,0,0,0.3)] py-12 px-10 rounded-[50px]">
                     <div class="flex justify-center">
                         <img src="/images/DA-Apprentice.png" alt="">
                     </div>
@@ -59,7 +59,7 @@
                     </h3>
                 </div>
 
-                <div class="lg:w-1/2 justify-center shadow-[0_10px_40px_rgba(0,0,0,0.3)] py-12 px-10 rounded-[50px]">
+                <div v-scroll-animate class="fade-in-right lg:w-1/2 justify-center shadow-[0_10px_40px_rgba(0,0,0,0.3)] py-12 px-10 rounded-[50px]">
                     <div class="flex justify-center">
                         <img src="/images/DA-Enterprise.png" alt="">
                     </div>
@@ -87,7 +87,7 @@
                 <span class="text-[#F47625] text-[30px] lg:text-[45px] xl:text-[60px]">unstructured data</span>
             </h1>
             <div class="w-full lg:w-[90%] xl:w-[55%] mx-auto flex flex-col lg:flex-row gap-5">
-                <div class="lg:w-1/2 shadow-[0_10px_40px_rgba(245,163,105,0.3)] border-[0.5px] border-[#666666] rounded-[20px] h-full lg:mt-10">
+                <div v-scroll-animate class="fade-in-left lg:w-1/2 shadow-[0_10px_40px_rgba(245,163,105,0.3)] border-[0.5px] border-[#666666] rounded-[20px] h-full lg:mt-10">
                     <div class="text-white bg-[#F47625] text-center rounded-t-[20px] py-3">
                         <h2 class="text-[36px] font-bold">APPRENTICE</h2>
                         <p class="text-[16px] font-light italic">Unstructured data discovery for fee</p>
@@ -125,7 +125,7 @@
                     </div>
                 </div>
 
-                <div class="lg:w-1/2 shadow-[0_10px_40px_rgba(254,162,92,0.3)] border-[0.5px] border-[#666666] rounded-[20px]">
+                <div v-scroll-animate class="fade-in-right lg:w-1/2 shadow-[0_10px_40px_rgba(254,162,92,0.3)] border-[0.5px] border-[#666666] rounded-[20px]">
                     <div class="text-white bg-[#FEA25C] text-center rounded-t-[20px] py-3">
                         <h2 class="text-[36px] font-bold">ENTERPRISE</h2>
                         <p class="text-[16px] font-light italic">Unstructured data for your organization</p>
