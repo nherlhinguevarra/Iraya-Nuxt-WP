@@ -4,7 +4,9 @@
         <div class="flex flex-col lg:flex-row w-[100%] mx-auto">
             <div class="p-5 lg:w-1/2 lg:p-0">
                 <div class="lg:pl-5 xl:pl-50 lg:pt-25 xl:pt-35">
-                    <img src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/05/bonaparte400.webp" class="w-full">
+                    <img src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/05/bonaparte400.webp" class="w-full block dark:hidden">
+                    <!-- Dark Mode -->
+                    <img src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/06/bonaparte400-Dark.png" class="w-full hidden dark:block">
                     <h1 class="text-[25px] lg:text-[30px] xl:text-[50px] text-[#535353] dark:text-white font-light leading-[1.2] py-2 lg:py-2 xl:py-5">
                         A
                         <span class="text-[#F47625]">million year’s data</span> 

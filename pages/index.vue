@@ -92,11 +92,13 @@
 
     <div class="w-full p-0 m-0">
         <div class="flex">
-            <img src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/05/Artboard-2-copy.webp" class="w-34 sm:w-1/2 lg:w-1/3"/>
-                
-            <img src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/05/Artboard-2-copy-2.webp" class="w-34 sm:w-1/2 lg:w-1/3"/>
-                
-            <img src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/05/Artboard-2-copy-3.webp" class="w-34 sm:w-1/2 lg:w-1/3"/>
+            <img src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/05/Artboard-2-copy.webp" class="w-34 sm:w-1/2 lg:w-1/3 block dark:hidden"/>
+            <img src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/05/Artboard-2-copy-2.webp" class="w-34 sm:w-1/2 lg:w-1/3 block dark:hidden"/>
+            <img src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/05/Artboard-2-copy-3.webp" class="w-34 sm:w-1/2 lg:w-1/3 block dark:hidden"/>
+            <!-- Dark Mode -->
+            <img src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/06/Artboard-2-copy-Dark.png" class="w-34 sm:w-1/2 lg:w-1/3 hidden dark:block">
+            <img src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/06/Artboard-2-copy-2-Dark.png" class="w-34 sm:w-1/2 lg:w-1/3 hidden dark:block">
+            <img src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/06/Artboard-2-copy-3-Dark.png" class="w-34 sm:w-1/2 lg:w-1/3 hidden dark:block">
         </div>
     </div>
     <div class="h-10 lg:h-20"></div>
