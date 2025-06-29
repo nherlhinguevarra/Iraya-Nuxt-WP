@@ -10,13 +10,13 @@
             <div class="w-full mt-32 ml-32 lg:w-1/4 mb-10 hidden lg:block">
                 <h1 class="text-[#F47625] text-2xl mb-8 font-semibold">WHY IRAYA?</h1>
                 <ul>
-                    <li><NuxtLink to="/about-us/value-proposition" class="text-[#535353] text-base font-medium mb-1 hover:text-[#000000]"
+                    <li><NuxtLink to="/about-us/value-proposition" class="text-[#535353] text-base font-medium mb-1 hover:text-black dark:hover:text-white"
                     >Value Proposition</NuxtLink></li>
-                    <li><NuxtLink to="/about-us/data-ingestion" class="text-[#535353] text-base font-medium mb-1 hover:text-[#000000]"
+                    <li><NuxtLink to="/about-us/data-ingestion" class="text-[#535353] text-base font-medium mb-1 hover:text-black dark:hover:text-white"
                     >Data Ingestion</NuxtLink></li>
-                    <li><NuxtLink to="/about-us/data-digestion" class="text-[#535353] text-base font-medium mb-1 hover:text-[#000000]"
+                    <li><NuxtLink to="/about-us/data-digestion" class="text-[#535353] text-base font-medium mb-1 hover:text-black dark:hover:text-white"
                     >Data Digestion</NuxtLink></li>
-                    <li><NuxtLink to="/about-us/knowledge-extraction" class="text-[#535353] text-base font-medium mb-1 hover:text-[#000000]"
+                    <li><NuxtLink to="/about-us/knowledge-extraction" class="text-[#535353] text-base font-medium mb-1 hover:text-black dark:hover:text-white"
                     >Knowledge Extraction</NuxtLink></li>
                 </ul>
             </div>

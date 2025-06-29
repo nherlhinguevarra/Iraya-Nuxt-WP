@@ -10,9 +10,9 @@
       <div class="w-full mt-32 ml-32 lg:w-1/4 mb-10 hidden lg:block">
         <h1 class="text-[#F47625] text-2xl mb-8 font-semibold">SERVICES</h1>
         <ul>
-          <li><NuxtLink to="/services/data-factory" class="text-[#535353] text-base font-medium mb-1 hover:text-black"
+          <li><NuxtLink to="/services/data-factory" class="text-[#535353] text-base font-medium mb-1 hover:text-black dark:hover:text-white"
             >Data Factory</NuxtLink></li>
-          <li><NuxtLink to="/services/knowledge-workflows" class="text-[#535353] text-base font-medium mb-1 hover:text-black"
+          <li><NuxtLink to="/services/knowledge-workflows" class="text-[#535353] text-base font-medium mb-1 hover:text-black dark:hover:text-white"
             >Knowledge Workflows</NuxtLink></li>
         </ul>
       </div>
