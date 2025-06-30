@@ -220,7 +220,7 @@
                     <img src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/05/iStock-529234139-edited2-1.png">
                 </div>
             </div>
-            <div v-scroll-animate class="fade-in-right lg:absolute ml-0 lg:ml-100 xl:ml-125 w-auto lg:w-[500px]  xl:w-[700px] pt-10">
+            <div v-scroll-animate class="fade-in-right lg:absolute ml-0 lg:ml-130 xl:ml-125 w-auto lg:w-[500px]  xl:w-[700px] pt-10">
                 <div class="flex lg:gap-10 xl:gap-15 bg-[#F3F3F300] lg:pl-10 xl:pl-20 lg:pr-5 xl:pr-10 py-5 shadow-[0_10px_40px_rgba(0,0,0,0.3)] rounded-r-[20px]">
                     <div class="w-[100px] flex items-center pr-2 lg:pr-0">
                         <img src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/05/MagGlass.webp">
