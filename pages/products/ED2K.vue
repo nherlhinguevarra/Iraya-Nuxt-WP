@@ -83,11 +83,12 @@
                 </div>
                 <div class="relative w-max mx-auto pt-10 lg:pt-10 pr-10">
                     <!-- Background Card -->
-                    <div class="absolute top-5 lg:top-2 xl:top-3 left-8 lg:left-11 w-[82%] lg:w-[86%] xl:w-[89%] h-[125px] lg:h-[190px] xl:h-[255px] bg-[#F476256E] rounded-2xl z-0 shadow-xl/30"></div>
+                    <div class="absolute top-5 lg:top-2 xl:top-3 left-8 lg:left-11 w-[82%] lg:w-[86%] xl:w-[89%] h-[125px] lg:h-[190px] xl:h-[225px] bg-[#F476256E] rounded-2xl z-0 shadow-xl/30"></div>
 
-                    <!-- Foreground Image Card -->
+                    <!-- Foreground Video Card -->
                     <div class="relative z-10 rounded-2xl overflow-hidden">
-                        <img src="/images/image5.png" alt="Large image" class="w-[250px] lg:w-[350px] xl:w-full h-auto">
+                        <video controls src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/06/ED2K-demo-SD-480p.mov" 
+                        alt="ED2K Video" class="w-[250px] lg:w-[350px] xl:w-[400px] h-auto"></video>
                     </div>
                 </div>
             </div>

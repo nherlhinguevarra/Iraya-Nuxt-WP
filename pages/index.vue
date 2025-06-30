@@ -45,9 +45,10 @@
                 <!-- Background Card -->
                 <div class="absolute top-5 lg:top-7 xl:top-11 left-8 lg:left-7 w-[82%] lg:w-[90%] xl:w-[93%] h-[125px] lg:h-[200px] xl:h-[250px] bg-[#F476256E] dark:bg-gradient-to-r from-[#F5A369] to-[#F47B25] rounded-2xl z-0 shadow-xl/30"></div>
 
-                <!-- Foreground Image Card -->
+                <!-- Foreground Video Card -->
                 <div class="relative z-10 rounded-2xl overflow-hidden shadow-xl/30">
-                    <img src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/05/image-1.jpg" alt="Large image" class="rounded-2xl w-[250px] lg:w-[350px] xl:w-[450px] h-auto">
+                    <video controls src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/06/Updated-logo-Iraya-x-ElasticDocs.mp4"
+                    class="rounded-2xl w-[250px] lg:w-[350px] xl:w-[450px] h-auto"></video>
                 </div>
             </div>
         </div>
@@ -205,9 +206,10 @@
                     <!-- Background Card -->
                     <div class="absolute top-[-30px] left-12 lg:left-9 w-81 lg:w-[92%] h-[200px] lg:h-[260px] xl:h-[350px] bg-[#F476256E] dark:bg-gradient-to-r from-[#F5A369] to-[#F47B25] rounded-2xl z-0 shadow-[0_10px_40px_rgba(0,0,0,0.3)]"></div>
 
-                    <!-- Foreground Image Card -->
+                    <!-- Foreground Video Card -->
                     <div class="relative z-10 rounded-2xl overflow-hidden shadow-xl/30">
-                        <img src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/05/ElasticDocs-Excerpt-1024x576.webp" class="rounded-2xl w-85 lg:w-[450px] xl:w-[650px] h-auto">
+                        <video controls src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/06/ElasticDocs-Excerpt.mp4" 
+                        class="rounded-2xl w-85 lg:w-[450px] xl:w-[650px] h-auto"></video>
                     </div>
                 </div>
             </div>

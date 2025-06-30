@@ -32,9 +32,10 @@
                     <!-- Background Card -->
                     <div class="absolute top-5 lg:top-8 xl:top-11 left-8 lg:left-8 xl:left-12 w-[85%] lg:w-[88%] xl:w-[90%] h-[160px] lg:h-[190px] xl:h-[300px] bg-[#F476256E] dark:bg-gradient-to-r from-[#F5A369] to-[#F47B25] rounded-2xl z-0 shadow-xl/30"></div>
 
-                    <!-- Foreground Image Card -->
+                    <!-- Foreground Video Card -->
                     <div class="relative z-10 rounded-2xl overflow-hidden">
-                        <img src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/05/image-4.png" alt="Large image" class="rounded-2xl w-[300px] lg:w-[350px] xl:w-[550px] h-auto">
+                        <video controls src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/06/ElasticDocs-Excerpt.mp4" 
+                        alt="ElasticDocs Video" class="rounded-2xl w-[300px] lg:w-[350px] xl:w-[550px] h-auto"></video>
                     </div>
                 </div>
             </div>

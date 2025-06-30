@@ -597,7 +597,13 @@
                 <div class="h-5 lg:h-10"></div>
                 <div v-scroll-animate class="fade-in-up w-full lg:w-[100%] mx-auto flex gap-5 flex flex-col lg:flex-row">
                     <div class="lg:w-2/5">
-                        <img src="/images/image11.png">
+                        <iframe
+                            src="https://www.youtube.com/embed/4gY9DKlxRVg?start=4"
+                            class="w-full h-full rounded-xl"
+                            frameborder="0"
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                            allowfullscreen
+                        ></iframe>
                     </div>
                     <div class="lg:w-3/5">
                         <h1 class="text-[16px] lg:text-[20px] xl:text-[26px] text-[#535353] dark:text-white font-bold leading-[1.2] italic uppercase">
