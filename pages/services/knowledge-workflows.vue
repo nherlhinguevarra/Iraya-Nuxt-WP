@@ -16,8 +16,8 @@
             </div>
             
             <div class="w-full mt-12 mb-12 lg:w-3/4">
-                <h1 class="text-[#535353] text-4xl lg:text-5xl leading-tight mb-10 pr-0 lg:pr-40">
-                    <span class="text-[#666666]">We customize</span>
+                <h1 class="text-[#535353] dark:text-white text-4xl lg:text-5xl leading-tight mb-10 pr-0 lg:pr-40">
+                    <span class="text-[#666666] dark:text-white">We customize</span>
                     <span class="text-[#F47625] font-bold"> machine learning</span> 
                     experiments to solve <span class="text-[#2D918C] font-bold">engineering</span> 
                     and <span class="text-[#2D918C] font-bold">geoscience</span>
@@ -25,7 +25,7 @@
                 </h1>
 
                 <h2 class="text-[#F47625] text-2xl lg:text-3xl font-bold mb-5">KNOWLEDGE WORKFLOWS</h2>
-                <p class="text-[#666666] text-base font-normal pr-0 lg:pr-44">
+                <p class="text-[#666666] dark:text-[#C8CCD2] text-base font-normal pr-0 lg:pr-44">
                     Iraya Energies develops Application Programming Interfaces (APIs) to capture new knowledge and 
                     insights from the digitized documents in our Machine Learning laboratory.
                     <br><br>

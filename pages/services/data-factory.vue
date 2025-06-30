@@ -19,8 +19,8 @@
 
       <!-- MAIN CONTENT -->
       <div class="w-full mt-12 mb-12 lg:w-3/4">
-        <h1 class="text-[#535353] text-4xl lg:text-5xl leading-tight mb-10 pr-0 lg:pr-40">
-          <span class="text-[#666666]">We are</span>
+        <h1 class="text-[#535353] dark:text-white text-4xl lg:text-5xl leading-tight mb-10 pr-0 lg:pr-40">
+          <span class="text-[#666666] dark:text-white">We are</span>
           <span class="italic text-[#F47625] font-bold"> experts</span>
           in <span class="text-[#2D918C] font-bold">data mining</span> with experience across the world
         </h1>
@@ -28,12 +28,12 @@
         <h2 class="text-[#F47625] text-2xl lg:text-3xl font-bold mb-5">
           DATA FACTORY (DIGITALIZATION)
         </h2>
-        <p class="text-[#666666] text-base mb-5 pr-0 lg:pr-44">
+        <p class="text-[#666666] dark:text-[#C8CCD2] text-base mb-5 pr-0 lg:pr-44">
           The data mining includes initial download, cataloging, cleanup, quality control of your data
           creating an advanced and functional web-based geoscience data repository including:
         </p>
         
-        <ul class="text-[#666666] text-base list-disc ml-6 mb-5 pr-0 lg:pr-44">
+        <ul class="text-[#666666] dark:text-[#C8CCD2] text-base list-disc ml-6 mb-5 pr-0 lg:pr-44">
           <li>Crawl & Scrape</li>
           <li>
             Automated extraction of engineering and geoscience data from the web, open-source datasets, including:
@@ -53,7 +53,7 @@
           <li>DAVE (Delete, Add, View & Edit)</li>
         </ul>
 
-        <p class="text-[#666666] text-base pr-0 lg:pr-44">
+        <p class="text-[#666666] dark:text-[#C8CCD2] text-base pr-0 lg:pr-44">
           Get your images organized through image classification for efficient processing and analysis.
           Move from cats vs dogs classification to geoscience image classes like maps, seismic, charts, etc.
           <br><br>

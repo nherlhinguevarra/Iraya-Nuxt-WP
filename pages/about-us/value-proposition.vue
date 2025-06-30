@@ -23,13 +23,13 @@
 
             <!-- MAIN CONTENT -->
             <div class="w-full mt-12 mb-12 lg:w-3/4">
-                <h1 class="text-[#535353] text-4xl lg:text-5xl leading-tight mb-10 pr-0 lg:pr-40">
-                    <span class="text-[#666666]">We make</span>
+                <h1 class="text-[#535353] dark:text-white text-4xl lg:text-5xl leading-tight mb-10 pr-0 lg:pr-40">
+                    <span class="text-[#666666] dark:text-white">We make</span>
                     <span class="text-[#F47625] font-bold"> unstructured data</span> 
                     instantly <span class="text-[#2D918C] font-bold">available</span> 
                     at your <span class="font-bold"> fingertips</span>
                 </h1>
-                <p class="text-[#666666] text-base font-normal mb-6 pr-0 lg:pr-44">
+                <p class="text-[#666666] dark:text-[#C8CCD2] text-base font-normal mb-6 pr-0 lg:pr-44">
                     The oil and gas industry is awash with data, both unstructured and structured, which expands 
                     exponentially and are everywhere. Through the ElasticDocs, Intuitive Knowledge Container, decades 
                     of engineering, exploration, and production data become instantly available.
@@ -47,7 +47,7 @@
                     <span class="text-[#2D918C] font-bold">4V's</span> in
                     <span class="text-[#F47625] font-bold">Big Data</span>
                 </h2>
-                <p class="text-[#666666] text-base font-normal mb-6 pr-0 lg:pr-44S">
+                <p class="text-[#666666] dark:text-[#C8CCD2] text-base font-normal mb-6 pr-0 lg:pr-44S">
                     The ElasticDocsTM Intuitive Knowledge Container manages the 4V’s in big data: A substantial Volume 
                     of unstructured data are organized from a large Variety of document types. All information is available 
                     instantaneously (Velocity) and with a high degree of accuracy (Veracity).
@@ -56,7 +56,7 @@
                     <span class="text-[#2D918C] font-bold">ElasticDocs™</span> the
                     <span class="text-[#F47625] font-bold">right solution</span> for your company?
                 </h2>
-                <ul class="text-[#666666] text-base font-normal list-disc ml-10 mb-6 pr-0 lg:pr-44">
+                <ul class="text-[#666666] dark:text-[#C8CCD2] text-base font-normal list-disc ml-10 mb-6 pr-0 lg:pr-44">
                     <li>Fast browsing of documents offers geoscientists new evidence-based insights</li>
                     <li>Share digitized data across the full exploration and production value chain and have strategic 
                         information instantly available</li>

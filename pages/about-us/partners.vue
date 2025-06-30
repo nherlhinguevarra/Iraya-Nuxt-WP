@@ -7,8 +7,8 @@
 
         <div class="relative justify-center z-10 flex w-full h-full">
             <div class="w-3/4 mt-20 mb-12 p-4">
-                <h1 class="text-center text-[#535353] text-4xl lg:text-5xl leading-10 lg:leading-[3.75rem] mb-8">
-                    <span class="text-[#666666]">Building the</span>
+                <h1 class="text-center text-[#535353] dark:text-white text-4xl lg:text-5xl leading-10 lg:leading-[3.75rem] mb-8">
+                    <span class="text-[#666666] dark:text-white">Building the</span>
                     <span class="text-[#F47625] font-bold"> future</span> 
                     of <span class="text-[#2D918C] font-bold">sustainable digital transformation</span> 
                     <span class="font-bold italic"> together</span>
@@ -74,7 +74,7 @@
                         <img src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/06/GOTECH-LOGO.webp" alt="">
                     </div>
                     <div>
-                        <p class="text-[#666666] text-base font-normal"><span class="font-bold">GOtech </span> is a specialized technology company providing products and services to the oil and gas market, and their growth is based on bringing unique technologies to the Kingdom of Saudi Arabia and partnering with highly reputable companies for the long term.</p>
+                        <p class="text-[#666666] dark:text-[#C8CCD2] text-base font-normal"><span class="font-bold">GOtech </span> is a specialized technology company providing products and services to the oil and gas market, and their growth is based on bringing unique technologies to the Kingdom of Saudi Arabia and partnering with highly reputable companies for the long term.</p>
                     </div>
                 </div>
                 <div class="grid grid-cols-1 lg:grid-cols-2 place-items-center gap-10 mb-18">
@@ -82,7 +82,7 @@
                         <img src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/06/Bratexco_Logo.webp" alt="">
                     </div>
                     <div>
-                        <p class="text-[#666666] text-base font-normal"><span class="font-bold">Bratexco,</span> founded in 2009, supports opportunities in the Brazilian offshore seismic data acquisition and processing business. Aside from this, it provides integrated technical solutions through collaboration with high-tech companies interested in Brazil.</p>
+                        <p class="text-[#666666] dark:text-[#C8CCD2] text-base font-normal"><span class="font-bold">Bratexco,</span> founded in 2009, supports opportunities in the Brazilian offshore seismic data acquisition and processing business. Aside from this, it provides integrated technical solutions through collaboration with high-tech companies interested in Brazil.</p>
                     </div>
                 </div>
         </div>

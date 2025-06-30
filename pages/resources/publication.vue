@@ -4,7 +4,7 @@
     bg-cover bg-top bg-no-repeat bg-fixed z-0"></div>
         <div class="relative justify-center w-full h-full z-10 lg:w-[85%] xl:w-[70%] px-5 lg:px-0 mx-auto">
             <div class="h-5 lg:h-20"></div>
-            <h1 class="text-[30px] lg:text-[40px] xl:text-[50px] text-[#666666] font-medium leading-[1.2]">
+            <h1 class="text-[30px] lg:text-[40px] xl:text-[50px] text-[#666666] dark:text-white font-medium leading-[1.2]">
                 Check out
                 <span class="text-[#F47625] font-bold italic">Iraya’s </span>
                 latest
@@ -21,13 +21,13 @@
                         <img src="/images/Earth-green1.png" class="w-full">
                     </div>
                     <div class="lg:w-3/5">
-                        <h1 class="text-[16px] lg:text-[20px] xl:text-[26px] text-[#666666] font-bold leading-[1.2] italic uppercase">
+                        <h1 class="text-[16px] lg:text-[20px] xl:text-[26px] text-[#666666] dark:text-white font-bold leading-[1.2] italic uppercase">
                             Using Machine Learning-Based Data Factory to Unlock Mining in Australia for Environmental, Social and Corporate Governance (ESG)
                         </h1>
-                        <p class="text-[16px] lg:text-[18px] leading-[1.8] text-[#666666] font-medium pt-4 italic">
+                        <p class="text-[16px] lg:text-[18px] leading-[1.8] text-[#666666] dark:text-[#C8CCD2] font-medium pt-4 italic">
                             EAGE Annual, Vienna, Austria | June 2023
                         </p>
-                        <p class="text-[16px] lg:text-[18px] leading-[1.8] text-[#666666] font-medium pt-2 lg:py-4">
+                        <p class="text-[16px] lg:text-[18px] leading-[1.8] text-[#666666] dark:text-[#C8CCD2] font-medium pt-2 lg:py-4">
                             The road to net zero requires a lot of raw materials from the mining industry. 
                             Renewable energy systems for solar, hydro, and wind need to be built to support 
                             the transition. Among the many metals critical to technology and infrastructure 
@@ -49,13 +49,13 @@
                         <img src="/images/DRILL-e1681788844950.png" class="w-full">
                     </div>
                     <div class="lg:w-3/5">
-                        <h1 class="text-[16px] lg:text-[20px] xl:text-[26px] text-[#666666] font-bold leading-[1.2] italic uppercase">
+                        <h1 class="text-[16px] lg:text-[20px] xl:text-[26px] text-[#666666] dark:text-[#C8CCD2] dark:text-white font-bold leading-[1.2] italic uppercase">
                             Sand Production and Control Benchmarking Through Unstructured Data Analysis with Machine Learning in the North Sea
                         </h1>
-                        <p class="text-[16px] lg:text-[18px] leading-[1.8] text-[#666666] font-medium pt-4 italic">
+                        <p class="text-[16px] lg:text-[18px] leading-[1.8] text-[#666666] dark:text-[#C8CCD2] font-medium pt-4 italic">
                             EAGE Annual, Vienna, Austria | June 2023
                         </p>
-                        <p class="text-[16px] lg:text-[18px] leading-[1.8] text-[#666666] font-medium pt-2 lg:py-4">
+                        <p class="text-[16px] lg:text-[18px] leading-[1.8] text-[#666666] dark:text-[#C8CCD2] font-medium pt-2 lg:py-4">
                             Sand production has been serving as a bottleneck to the oil and gas industry, contributing 
                             to disruption of daily production operations, casing deformation, erosion of well tubing, 
                             pipelines, and surface equipment, expediting significant non-productive time (NPT) costing 
