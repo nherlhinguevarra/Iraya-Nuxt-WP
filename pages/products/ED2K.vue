@@ -2,7 +2,7 @@
     <div class="lg:mt-10">
         <div class="h-5 lg:h-5 xl:h-10"></div>
         <div class="flex flex-col lg:flex-row w-[100%] mx-auto">
-            <div class="p-5 lg:w-1/2 lg:p-0">
+            <div v-scroll-animate class="fade-in-left p-5 lg:w-1/2 lg:p-0">
                 <div class="lg:pl-5 xl:pl-50 lg:pt-5 xl:pt-10">
                     <h1 class="text-[25px] lg:text-[30px] xl:text-[40px] text-[#666666] dark:text-white font-light leading-[1.2] py-2 lg:py-2 xl:py-5">
                         Reading
@@ -30,7 +30,7 @@
                     </div>
                 </div>
             </div>
-            <div class="lg:w-1/2 justify-items-end">
+            <div v-scroll-animate class="fade-in-right lg:w-1/2 justify-items-end">
                 <img src="/images/ed2k_banner_flipped.png" class="w-full">
             </div>
         </div>
@@ -55,7 +55,7 @@
                 <img src="/images/eage_earthdoc.png" class="block mx-auto">
             </div>
 
-            <div class="flex flex-col lg:flex-row bg-[#FFFFFF] dark:bg-[#282929] mx-auto p-8 lg:py-20 lg:px-10 rounded-[50px] shadow-[0_10px_40px_rgba(0,0,0,0.3)] align-center w-fit z-1 relative">
+            <div v-scroll-animate class="fade-in-up flex flex-col lg:flex-row bg-[#FFFFFF] dark:bg-[#282929] mx-auto p-8 lg:py-20 lg:px-10 rounded-[50px] shadow-[0_10px_40px_rgba(0,0,0,0.3)] align-center w-fit z-1 relative">
                 <div class="w-full lg:w-[400px] xl:w-[560px]">
                     <h1 class="text-[25px] lg:text-[30px] xl:text-[35px] text-[#535353] dark:text-white leading-[1.1] font-light pb-2 lg:pb-0">
                         Amplify your
@@ -119,7 +119,7 @@
                 </div>
                 
                 <div class="w-full lg:w-full xl:w-[80%] flex flex-col lg:flex-row gap-5 lg:gap-8 xl:gap-10 mx-auto">
-                    <div class="lg:w-1/2 text-center">
+                    <div v-scroll-animate class="fade-in-up lg:w-1/2 text-center">
                         <div class="rounded-t-[20px] shadow-[0_-6px_6px_-4px_rgba(0,0,0,0.2),-6px_0_6px_-4px_rgba(0,0,0,0.2),6px_0_6px_-4px_rgba(0,0,0,0.2)] leading-[1.2] p-5 lg:p-5 xl:p-10 w-[40%] lg:w-[60%] xl:w-[45%] mx-auto dark:bg-[#282929]">
                             <h1 class="text-[#F47625] text-[40px] lg:text-[60px] xl:text-[80px] font-bold">39</h1>
                             <h1 class="text-[#2D918C] text-[20px] lg:text-[25px] xl:text-[32px] font-bold">years</h1>
@@ -130,7 +130,7 @@
                         </div>
                     </div>
 
-                    <div class="lg:w-1/2 text-center">
+                    <div v-scroll-animate class="fade-in-up lg:w-1/2 text-center">
                         <div class="rounded-t-[20px] shadow-[0_-6px_6px_-4px_rgba(0,0,0,0.2),-6px_0_6px_-4px_rgba(0,0,0,0.2),6px_0_6px_-4px_rgba(0,0,0,0.2)] leading-[1.2] p-5 lg:p-5 xl:p-10 w-[40%] lg:w-[60%] xl:w-[45%] mx-auto dark:bg-[#282929]">
                             <h1 class="text-[#F47625] text-[40px] lg:text-[60px] xl:text-[80px] font-bold">872</h1>
                             <h1 class="text-[#2D918C] text-[20px] lg:text-[25px] xl:text-[32px] font-bold">basins</h1>
@@ -141,7 +141,7 @@
                         </div>
                     </div>
 
-                    <div class="lg:w-1/2 text-center">
+                    <div v-scroll-animate class="fade-in-up lg:w-1/2 text-center">
                         <div class="rounded-t-[20px] shadow-[0_-6px_6px_-4px_rgba(0,0,0,0.2),-6px_0_6px_-4px_rgba(0,0,0,0.2),6px_0_6px_-4px_rgba(0,0,0,0.2)] leading-[1.2] p-5 lg:p-5 xl:p-10 w-[40%] lg:w-[60%] xl:w-[45%] mx-auto dark:bg-[#282929]">
                             <h1 class="text-[#F47625] text-[40px] lg:text-[60px] xl:text-[80px] font-bold">195</h1>
                             <h1 class="text-[#2D918C] text-[20px] lg:text-[25px] xl:text-[32px] font-bold">countries</h1>
@@ -154,7 +154,7 @@
                 </div>
                 <div class="h-10 lg:h-15"></div>
                 <div>
-                    <div class="text-center leading-[1.2]">
+                    <div v-scroll-animate class="fade-in-up text-center leading-[1.2]">
                         <h1 class="text-[#F47625] text-[55px] lg:text-[100px] xl:text-[125px] font-bold">~510,000,000</h1>
                         <h1 class="text-[#2D918C] text-[30px] lg:text-[35px] xl:text-[40px] font-bold">sq. km. covered</h1>
                     </div>
@@ -172,7 +172,7 @@
             processing, auto-image recognition, and recommender systems are fully integrated into the ED2K system. This 
             results in a short amount of time, maximizing reading and analysis of the Earth’s data.
         </p>
-        <img src="/images/MLSEQ.png" class="block mx-auto py-5 lg:py-10">
+        <img src="/images/MLSEQ.png" v-scroll-animate class="fade-in-left block mx-auto py-5 lg:py-10">
         <p class="text-center text-160px] lg:text-[20px] text-[#666666] dark:text-[#C8CCD2] font-medium w-full lg:w-[80%] xl:w-[60%] mx-auto py-5">
             Using an intelligent pipeline of Optical Character Recognition, Deep Convolutional Neural Networks, Natural
             Language Processing & Knowledge Graphs algorithms, the machine auto classifies different earth image clues, from 

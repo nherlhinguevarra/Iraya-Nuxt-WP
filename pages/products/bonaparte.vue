@@ -2,7 +2,7 @@
     <div class="lg:mt-10">
         <div class="h-5 lg:h-5 xl:h-10"></div>
         <div class="flex flex-col lg:flex-row w-[100%] mx-auto">
-            <div class="p-5 lg:w-1/2 lg:p-0">
+            <div v-scroll-animate class="fade-in-left p-5 lg:w-1/2 lg:p-0">
                 <div class="lg:pl-5 xl:pl-50 lg:pt-25 xl:pt-35">
                     <img src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/05/bonaparte400.webp" class="w-full block dark:hidden">
                     <!-- Dark Mode -->
@@ -73,7 +73,7 @@
             </div>
         </div>
         <div class="h-5 lg:h-15"></div>
-        <div class="w-full lg:w-[90%] xl:w-[60%] mx-auto shadow-[0_10px_40px_rgba(0,0,0,0.3)] py-5 px-10 lg:py-10 lg:px-20 rounded-[50px]">
+        <div v-scroll-animate class="fade-in-up w-full lg:w-[90%] xl:w-[60%] mx-auto shadow-[0_10px_40px_rgba(0,0,0,0.3)] py-5 px-10 lg:py-10 lg:px-20 rounded-[50px]">
             <h1 class="text-[18px] lg:text-[30px] xl:text-[50px] text-[#2D918C] font-medium leading-[1.2]">
                 A basin of bounty ripe for 
                 <span class="text-[#F47625]">discovery</span>

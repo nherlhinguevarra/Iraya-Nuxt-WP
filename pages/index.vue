@@ -61,7 +61,7 @@
                     <span class="text-[#2D918C]">with</span>
                 </h1>
             </div>
-            <div class="w-full py-5 lg:py-15">
+            <div v-scroll-animate class="fade-in-up w-full py-5 lg:py-15">
                 <div class="grid grid-cols-2 place-items-center gap-4 lg:flex lg:flex-row lg:items-center lg:justify-center lg:gap-5 xl:gap-10">
                     <img src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/05/Petronas_c.webp" class="w-auto lg:w-60 xl:w-auto dark:invert dark:brightness-125" alt="Image">
                     <img src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/05/capricorn_c.webp" class="w-auto lg:w-60 xl:w-auto dark:invert dark:brightness-125" alt="Image">
@@ -75,7 +75,6 @@
                     <img src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/05/neptune_c.webp" class="dark:invert dark:brightness-125" alt="Image">
                     <img src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/05/pttep_c.webp" class="dark:invert dark:brightness-125" alt="Image">
                 </div>
-
             </div>
             <div class="py-10">
                 <h1 class="text-[30px] lg:text-[55px] text-[#2D918C] font-semibold text-center">
@@ -102,7 +101,7 @@
         </div>
     </div>
     <div class="h-10 lg:h-20"></div>
-    <div class="px-10 lg:px-40 xl:px-145">
+    <div v-scroll-animate class="fade-in-up px-10 lg:px-40 xl:px-145">
         <h1 class="text-[20px] lg:text-[40px] text-[#666666] dark:text-[#C8CCD2] font-normal text-center">
             Own the power of your data with Iraya’s
             <span class="text-[#2D918C] font-semibold">Data Atelier</span> and
@@ -185,7 +184,7 @@
         <div class="h-10 lg:h-20 xl:h-40"></div>
 
         <div class="flex flex-col lg:flex-row lg:w-[95%] xl:w-[80%] mx-auto">
-            <div class="lg:w-1/2">
+            <div v-scroll-animate class="fade-in-left lg:w-1/2">
                 <div class="pb-0 px-5 lg:px-5 xl:px-10">
                     <img src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/05/EdocsTMLogo.webp">
                     <hr class="mt-4 h-[1px] bg-[#66666680] bg-opacity-20 border-0" />
@@ -201,7 +200,7 @@
                 </div>
             </div>
 
-            <div class="w-1/2 pt-10 lg:pt-12 xl:pt-10 px-5 lg:px-0">
+            <div v-scroll-animate class="fade-in-right w-1/2 pt-10 lg:pt-12 xl:pt-10 px-5 lg:px-0">
                 <div class="relative w-max mx-auto lg:pr-8 xl:pr-13">
                     <!-- Background Card -->
                     <div class="absolute top-[-30px] left-12 lg:left-9 w-81 lg:w-[92%] h-[200px] lg:h-[260px] xl:h-[350px] bg-[#F476256E] dark:bg-gradient-to-r from-[#F5A369] to-[#F47B25] rounded-2xl z-0 shadow-[0_10px_40px_rgba(0,0,0,0.3)]"></div>
@@ -216,12 +215,12 @@
         <div class="h-0 lg:h-15 xl:h-30"></div>
 
         <div class="flex w-95 lg:w-[90%] xl:w-[65%] mx-auto">
-            <div class="lg:w-1/2">
+            <div v-scroll-animate class="fade-in-left lg:w-1/2">
                 <div class="hidden lg:block">
                     <img src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/05/iStock-529234139-edited2-1.png">
                 </div>
             </div>
-            <div class="lg:absolute ml-0 lg:ml-100 xl:ml-125 w-auto lg:w-[500px]  xl:w-[700px] pt-10">
+            <div v-scroll-animate class="fade-in-right lg:absolute ml-0 lg:ml-100 xl:ml-125 w-auto lg:w-[500px]  xl:w-[700px] pt-10">
                 <div class="flex lg:gap-10 xl:gap-15 bg-[#F3F3F300] lg:pl-10 xl:pl-20 lg:pr-5 xl:pr-10 py-5 shadow-[0_10px_40px_rgba(0,0,0,0.3)] rounded-r-[20px]">
                     <div class="w-[100px] flex items-center pr-2 lg:pr-0">
                         <img src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/05/MagGlass.webp">
@@ -269,7 +268,7 @@
     </div>
     <div class="h-20"></div>
 
-    <div class="lg:px-20 xl:px-130">
+    <div v-scroll-animate class="fade-in-up lg:px-20 xl:px-130">
         <h1 class="text-[20px] lg:text-[40px] text-[#313131] dark:text-[#C8CCD2] font-normal text-center">
             Enrich your companies knowledge with Iraya’s
             <span class="text-[#2D918C] text-[30px] lg:text-[60px] font-semibold">ED2K </span>
@@ -280,10 +279,10 @@
 
     <div class="h-5"></div>
     <div class="flex flex-col lg:flex-row w-[100%] mx-auto">
-        <div class="lg:w-1/2">
+        <div v-scroll-animate class="fade-in-left lg:w-1/2">
             <img src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/05/irayaxeage-1.webp" class="w-[1000px]">
         </div>
-        <div class="p-5 lg:w-1/2 lg:p-0">
+        <div v-scroll-animate class="fade-in-right p-5 lg:w-1/2 lg:p-0">
             <div class="lg:pt-10 xl:pt-45 lg:pl-5 xl:pl-20 lg:pr-10 xl:pr-30">
                 <h1 class="lg:text-[18px] xl:text-[26px] text-[#666666] dark:text-[#C8CCD2] font-medium">
                     <span class="text-[#F47625] lg:text-[25px] xl:text-[50px]">ED2K </span>
@@ -307,7 +306,7 @@
 
     <div class="h-5"></div>
     <div class="flex flex-col lg:flex-row w-[100%] mx-auto">
-        <div class="p-5 lg:w-1/2 lg:p-0">
+        <div v-scroll-animate class="fade-in-left p-5 lg:w-1/2 lg:p-0">
             <div class="lg:pl-5 xl:pl-50 lg:pt-25 xl:pt-55">
                 <img src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/05/bonaparte400.webp">
                 <hr class="mt-4 h-[1px] lg:w-120 xl:w-145 bg-[#66666680] bg-opacity-20 border-0" />
@@ -329,7 +328,7 @@
     </div>
 
     <div class="flex flex-col lg:flex-row w-[100%] mx-auto">
-        <div class="p-5 lg:w-1/2 lg:p-0">
+        <div v-scroll-animate class="fade-in-left p-5 lg:w-1/2 lg:p-0">
             <div class="lg:pl-5 xl:pl-50">
                 <img src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/05/Discover-the-new.webp" class="w-[200px] lg:w-[250px] xl:w-[350px]">
                 <img src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/05/Elasticdocs-on-premise-logo.webp">
@@ -414,7 +413,7 @@
                 </h3>
             </div>
         </div>
-        <div class="lg:w-1/2">
+        <div v-scroll-animate class="fade-in-right lg:w-1/2">
             <div class="justify-items-center lg:pt-2 xl:pt-8">
                 <img src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/05/itson-1024x210.webp" class="w-[300px] lg:w-[400px] xl:w-[500px]">
             </div>
@@ -425,7 +424,7 @@
     </div>
     <div class="h-5 lg:h-15 xl:h-30"></div>
 
-    <div class="w-[95%] lg:w-[95%] xl:w-[70%] mx-auto flex flex-col gap-5 xl:gap-10 lg:flex-row">
+    <div v-scroll-animate class="fade-in-up w-[95%] lg:w-[95%] xl:w-[70%] mx-auto flex flex-col gap-5 xl:gap-10 lg:flex-row">
         <div class="lg:w-1/2 text-center p-10 rounded-bl-[60px] rounded-tr-[60px] shadow-[0_10px_40px_rgba(245,163,105,0.3)]">
             <h1 class="text-[18px] text-[#666666BD] dark:text-[#C8CCD2] italic font-medium pb-5">
                 “With ElasticDocs, data can immediately be identified, 
@@ -467,7 +466,7 @@
             digital transformation together
         </h1>
     </div>
-    <div class="w-full py-5 lg:py-15 px-10 lg:px-5">
+    <div v-scroll-animate class="fade-in-up w-full py-5 lg:py-15 px-10 lg:px-5">
         <div class="flex flex-col lg:flex-row items-center justify-center gap-10 lg:gap-30">
             <img src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/05/azure_c.webp" class="dark:invert dark:brightness-125" alt="Large image">
             <img src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/05/Petronas_c.webp" class="dark:invert dark:brightness-125" alt="Large image">

@@ -79,7 +79,7 @@
                     </div>
 
                     <!-- Card 4 -->
-                    <div v-scroll-animate class="slide-in-uptext-start">
+                    <div v-scroll-animate class="slide-in-up text-start">
                         <img src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/06/Ian-Panganiban-2.png" 
                         alt="Ian Panganiban" class="mx-auto mb-4 dark:bg-neutral-900 shadow-[0_0_15px_rgba(0,0,0,0.1)] rounded-tl-[60px] rounded-br-[60px]
                         w-full max-w-xs sm:max-w-sm h-auto object-cover" />
