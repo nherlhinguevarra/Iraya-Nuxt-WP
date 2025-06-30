@@ -282,7 +282,7 @@
         <div v-scroll-animate class="fade-in-left lg:w-1/2">
             <img src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/05/irayaxeage-1.webp" class="w-[1000px]">
         </div>
-        <div v-scroll-animate class="fade-in-right p-5 lg:w-1/2 lg:p-0">
+        <div class="p-5 lg:w-1/2 lg:p-0">
             <div class="lg:pt-10 xl:pt-45 lg:pl-5 xl:pl-20 lg:pr-10 xl:pr-30">
                 <h1 class="lg:text-[18px] xl:text-[26px] text-[#666666] dark:text-[#C8CCD2] font-medium">
                     <span class="text-[#F47625] lg:text-[25px] xl:text-[50px]">ED2K </span>
@@ -413,7 +413,7 @@
                 </h3>
             </div>
         </div>
-        <div v-scroll-animate class="fade-in-right lg:w-1/2">
+        <div class="lg:w-1/2">
             <div class="justify-items-center lg:pt-2 xl:pt-8">
                 <img src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/05/itson-1024x210.webp" class="w-[300px] lg:w-[400px] xl:w-[500px]">
             </div>
