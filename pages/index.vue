@@ -308,7 +308,9 @@
     <div class="flex flex-col lg:flex-row w-[100%] mx-auto">
         <div v-scroll-animate class="fade-in-left p-5 lg:w-1/2 lg:p-0">
             <div class="lg:pl-5 xl:pl-50 lg:pt-25 xl:pt-55">
-                <img src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/05/bonaparte400.webp">
+                <img src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/05/bonaparte400.webp" class="block dark:hidden">
+                <!-- Dark Mode -->
+                <img src="https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/06/bonaparte400-Dark.png" class="hidden dark:block" alt="">
                 <hr class="mt-4 h-[1px] lg:w-120 xl:w-145 bg-[#66666680] bg-opacity-20 border-0" />
                 <h1 class="lg:text-[16px] xl:text-[20px] text-[#535353] dark:text-[#C8CCD2] font-normal leading-[2] lg:py-5 xl:py-10">
                     More than 70 years of drilling history from the Bonaparte Basin in Australia resulting to 
