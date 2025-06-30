@@ -1,7 +1,7 @@
 <template>
    <div class="absolute inset-0 bg-[url('https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/06/IRAYA-BACKGROUND.webp')] 
     dark:bg-[url('https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/06/IRAYA-BG-DARK.png')]
-    bg-cover bg-top bg-no-repeat bg-fixed z-0"></div>
+    bg-cover bg-top bg-no-repeat bg-fixed z-[-1]"></div>
         <div class="relative justify-center w-full h-full z-10 lg:w-[85%] xl:w-[70%] px-5 lg:px-0 mx-auto">
             <div class="h-5 lg:h-20"></div>
             <h1 class="text-[30px] lg:text-[40px] xl:text-[50px] text-[#666666] dark:text-white font-medium leading-[1.2]">
