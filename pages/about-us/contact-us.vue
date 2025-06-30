@@ -13,7 +13,7 @@
         <h1 class="text-center text-[#666666] dark:text-[#C8CCD2] text-[24px] lg:text-[34px] font-medium leading-[1.2] py-4">
             APAC & HQ (MALAYSIA)
         </h1>
-        <div id="real-map" class="w-[500px] h-[350px] rounded-lg shadow-lg mx-auto"></div>
+        <div id="real-map" class="w-full lg:w-[500px] h-[350px] rounded-lg shadow-lg mx-auto"></div>
         <h1 class="text-center text-[#666666] dark:text-[#C8CCD2] text-[24px] lg:text-[26px] font-medium leading-[1.5] py-2 w-full lg:w-[40%] xl:w-[20%] mx-auto">
             Suite 8.01 Level 8 Menara Binjai
             No. 2 Jalan Binjai

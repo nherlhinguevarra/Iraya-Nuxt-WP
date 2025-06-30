@@ -112,7 +112,7 @@
 
     <div class="bg-[#F3F3F3] dark:bg-[#282929] w-full">
         <div class="flex flex-col lg:flex-row gap-5 justify-center">
-            <div class="flex flex-col lg:flex-row lg:w-1/2 gap-5 lg:pl-5 xl:pl-70 lg:pr-5 xl:pr-20 px-5 lg:px-0">
+            <div class="flex flex-col lg:flex-row lg:w-1/2 gap-5 lg:pl-5 xl:pl-50 lg:pr-5 xl:pr-20 px-5 lg:px-0">
                 <div class="lg:w-1/2">
                     <div class="bg-[#FFFFFF] dark:bg-[#202124] py-5 lg:pt-50 px-4 h-auto lg:h-145 shadow-[0_10px_40px_rgba(0,0,0,0.3)]">
                         <div class="">
