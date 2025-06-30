@@ -1,12 +1,15 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
+    ssr: false,
+    target: 'static',
+
     compatibilityDate: '2025-05-15',
     pages: true,
     devtools: { enabled: true },
 
     runtimeConfig: {
         public: {
-        wpApiBase: 'https://https://demoiraya.bicoluni-busina.com//wp-json' // <-- Replace with your site
+        wpApiBase: 'https://https://demoiraya.bicoluni-busina.com/wp-json'
         }
     },
 
