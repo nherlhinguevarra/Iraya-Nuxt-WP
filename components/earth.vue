@@ -8,7 +8,7 @@
 
 <style scoped>
     .earth {
-        background-image: url('https://shorturl.at/jluH8');
+        background-image: url('https://demoiraya.bicoluni-busina.com/wp-content/uploads/2025/06/Earth-scaled.jpg');
         background-size: 1600px;
         background-repeat: repeat-x;
         border-radius: 50%;
